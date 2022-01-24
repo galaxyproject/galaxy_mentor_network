@@ -1,8 +1,8 @@
+<img width="500" align="right" alt="illustration" src="https://user-images.githubusercontent.com/82679007/150655220-d023b26e-ceab-4b37-9d66-0ad6b20f0628.png">
+
 # Mentorship...for you!
 
 ### Do you need guidance on a project? Need help learning how to contribute to open source? Guidance in settling into the Galaxy ecosystem? More?
-
-<img width="400" alt="illustration" src="https://user-images.githubusercontent.com/82679007/150655220-d023b26e-ceab-4b37-9d66-0ad6b20f0628.png">
 
 ## About Galaxy Mentorship Network Program
 Galaxy Mentorship Network program is an initiative by the Galaxy Community to build her members in open source projects. 
