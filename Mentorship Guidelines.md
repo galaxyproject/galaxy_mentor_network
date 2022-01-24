@@ -1,3 +1,5 @@
+<img src="![colour text](https://user-images.githubusercontent.com/82679007/150870419-21f7d802-0e40-4a0c-b16a-17f37a18115c.png)" alt="The Galaxy Mentor Network logo." width="400"  align="right" />
+
 # Galaxy Mentorship Network Guidelines
 Welcome to the Galaxy Community Mentorship Program designed to help community members who may be bioinformaticians, data analysts, students, programmers, e.t.c, become more proficient in the use of Galaxy tools and integration into the Galaxy Community.
 
