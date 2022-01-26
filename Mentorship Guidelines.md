@@ -1,70 +1,58 @@
 <img src="https://user-images.githubusercontent.com/82679007/150870419-21f7d802-0e40-4a0c-b16a-17f37a18115c.png" alt="The Galaxy Mentor Network logo." width="400"  align="right" />
 
 # Galaxy Mentorship Network Guidelines
+
 Welcome to the Galaxy Community Mentorship Program designed to help community members who may be bioinformaticians, data analysts, students, programmers, e.t.c, become more proficient in the use of Galaxy tools and integration into the Galaxy Community.
 
 ## Program Duration
+
 A typical mentorship program is scheduled to run for 8 weeks. Within this 8-week period, GMentors will work closely with GMentees and interact with other GMentors in the mentor community chat.
 
 Highlights of this mentorship program include:
 
--Week 1 - an introductory call between GMentees, GMentors, and Network Managers.
-
--Week 4 - mid-program feedback
-
--Week 8 - final feedback.
+- Week 1 - an introductory call between GMentees, GMentors, and Network Managers.
+- Week 4 - mid-program feedback
+- Week 8 - final feedback.
 
 ## Program Tracking
 
 **How we track progress**
 
--Two feedbacks during the duration of the program: week 4 and week 8
-
--Meeting with the Network Manager 
+- Two feedbacks during the duration of the program: week 4 and week 8
+- Meeting with the Network Manager 
 
 **What are we tracking?**
 
--Progress of GMentees’ project
-
--Relationship between GMentor and GMentee(s)
-
--Challenges
+- Progress of GMentees’ project
+- Relationship between GMentor and GMentee(s)
+- Challenges
 
 
 There are three major roles in this mentorship program. They are:
 
--Mentees
-
--Mentors
-
--Network Managers
+- Mentees
+- Mentors
+- Network Managers
 
 ## Mentees
 
 Mentees are members of the Galaxy Community who:
 
--Are new to the community and help to become proficient in the use of Galaxy tools.
-
--Want to learn how to contribute efficiently.
-
--Want to transition from one part of the Galaxy ecosystem to another.
-
--Need to learn how to be a mentor.
-
--Need mentorship in carrying out their projects.
+- Are new to the community and help to become proficient in the use of Galaxy tools.
+- Want to learn how to contribute efficiently.
+- Want to transition from one part of the Galaxy ecosystem to another.
+- Need to learn how to be a mentor.
+- Need mentorship in carrying out their projects.
 
 
 **First Steps: Getting Started**
 
 Here's what you need to kick off:
 
--Join the matrix chat with your Gmentor.
-
--Introduce yourself and your intended project(if you don't have a project in mind, don't worry, your GMentor has a couple of helpful projects to suggest).
-
--Set up meeting times and a calendar with your GMentor.
-
--Join the introductory call with your Network Manager.
+- Join the matrix chat with your Gmentor.
+- Introduce yourself and your intended project(if you don't have a project in mind, don't worry, your GMentor has a couple of helpful projects to suggest).
+- Set up meeting times and a calendar with your GMentor.
+- Join the introductory call with your Network Manager.
 
 *Voila! You're set!*
 
@@ -79,13 +67,10 @@ Details of the meetings will be created in a Google calendar so you can add them
 
 **Expectations**
 
--Your GMentor is available to guide you and answer all your questions to the best of their ability.
-
--The sole responsibility of your project rests on you, your mentor will not carry out your project for you.
-
--Detailed and Timely reviews on your project or contributions will be given by GMentors.
-
--At least 30 minutes of meeting calls between you and your mentor will be held weekly.
+- Your GMentor is available to guide you and answer all your questions to the best of their ability.
+- The sole responsibility of your project rests on you, your mentor will not carry out your project for you.
+- Detailed and Timely reviews on your project or contributions will be given by GMentors.
+- At least 30 minutes of meeting calls between you and your mentor will be held weekly.
 
 
 ## Mentors
@@ -96,15 +81,11 @@ Mentors are members of the community who have volunteered to help mentor communi
 
 Here's what you need to kick off:
 
--Review mentees’ applications and select GMentee(s).
-
--Join the matrix chat with your GMentee(s)
-
--Introduce yourself and discuss an intended project of your GMentee(s)(if they don't have a project in mind, you can suggest a number of very helpful projects tailored to suit their skill set and goals).
-
--Set up meeting times and a calendar with your GMentee(s).
-
--Join the introductory call with your Network Manager and Mentee(s)
+- Review mentees’ applications and select GMentee(s).
+- Join the matrix chat with your GMentee(s)
+- Introduce yourself and discuss an intended project of your GMentee(s)(if they don't have a project in mind, you can suggest a number of very helpful projects tailored to suit their skill set and goals).
+- Set up meeting times and a calendar with your GMentee(s).
+- Join the introductory call with your Network Manager and Mentee(s)
 
 *Voila! You're set!*
 
@@ -119,17 +100,12 @@ Details of the meetings will be created in a calendar so you can add them to you
 
 **Expectations**
 
--Availability to guide mentees and answer all their questions to the best of your ability.
-
--Detailed and Timely reviews on projects or contributions.
-
--At least 30 minutes of meeting calls between you and your mentee is held weekly.
-
--Attend a Mentor training session: a link to the training video will be provided in your mail.
-
--Report issues or ask questions in the GMentor community chat.
-
--Support is provided for all mentors in the matrix chat.
+- Availability to guide mentees and answer all their questions to the best of your ability.
+- Detailed and Timely reviews on projects or contributions.
+- At least 30 minutes of meeting calls between you and your mentee is held weekly.
+- Attend a Mentor training session: a link to the training video will be provided in your mail.
+- Report issues or ask questions in the GMentor community chat.
+- Support is provided for all mentors in the matrix chat.
 
 
 ## Network Managers
@@ -140,15 +116,11 @@ Network Managers are in charge of ensuring the smooth running of the mentorship 
 
 Here's what you need to kick off:
 
--Inform GMentors of new applications in the mentor chat.
-
--Send mails to mentors and mentees after the matching process.
-
--Create the matrix chat for your mentor groups.
-
--Set up meeting times and calendar with your mentor groups.
-
--Host the introductory call with mentor groups.
+- Inform GMentors of new applications in the mentor chat.
+- Send mails to mentors and mentees after the matching process.
+- Create the matrix chat for your mentor groups.
+- Set up meeting times and calendar with your mentor groups.
+- Host the introductory call with mentor groups.
 
 *Voila! You're set!*
 
@@ -163,15 +135,12 @@ Details of the meetings will be created in a Google calendar so you can add them
 
 **Expectations**
 
--Network Managers will be in the mentor community chat channels and are expected to support both GMentors and GMentees.
+- Network Managers will be in the mentor community chat channels and are expected to support both GMentors and GMentees.
+- Attend Mentor training session: link to the training will be provided in your mail.
+- Respond to issues or questions asked in the mentor community chat.
+- Support is provided for all GMentors and GMentees in the matrix chat.
 
--Attend Mentor training session: link to the training will be provided in your mail.
-
--Respond to issues or questions asked in the mentor community chat.
-
--Support is provided for all GMentors and GMentees in the matrix chat.
-
-See our amazing GMentors and Network Managers [here](#)
+See our amazing GMentors and Network Managers [here](#) 
 
 
 ## End of Program
