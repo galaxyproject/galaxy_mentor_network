@@ -1,4 +1,3 @@
-<img src="./images/logos/colour text.png" alt="GMN logo, a coloured GMN logo with transparent background." width="400"  align="right" />
 
 # Frequently Asked Questions (FAQs)
 
