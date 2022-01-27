@@ -3,10 +3,8 @@
  Project Coordinators
  
 - [Beatriz Serrano-Solano](#)
- 
- [Berenice Batut](#)
- 
- [Assunta DeSanto](#)
+ - [Bérénice Batut](#)
+ - [Assunta DeSanto](#)
  
  ### Contact Us
  
