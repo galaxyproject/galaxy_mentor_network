@@ -3,13 +3,10 @@
 
 Contents
 
-[Galaxy](#Galaxy)
-
-[The Galaxy Mentor Network Program](#GMN)
-
-[The Gmentees](#Gmentees)
-
-[The Gmentors](#Gmentors)
+- [Galaxy](#Galaxy)
+- [The Galaxy Mentor Network Program](#GMN)
+- [The Gmentees](#Gmentees)
+- [The Gmentors](#Gmentors)
 
 More FAQs will be added to this page as questions arise.
 
