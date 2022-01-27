@@ -1,37 +1,44 @@
-<img src="./images/logos/colour text.png" alt="GMN logo, a coloured GMN logo with transparent background." width="400"  align="right" />
+# How can I generate the website locally?
 
-# Galaxy Mentorship Network (GMN)
-***Mentorship...for you!***
+### 1. Install Gridsome CLI tool if you don't have
 
-## Welcome!
-First and foremost, Welcome! 🎉 Willkommen! 🎊 Bienvenue! 🙏 सुस्वागत (Suswagat)🎈🎈🎈
-
-This document (the `README` file) is a hub to give you some information about the
-project. Jump straight to one of the sections below, or just scroll down to find
-out more.
-
-## What are we doing?
-We are working on a mentorship program that drives rich learning and development for Galaxy community members.
-
-Designed for any Galaxy members (both new and existing), this two months Gmentoring programme will equip participants (Gmentees and Gmentors) with a broad set of practical skills to boost knowledge and thrive in the Galaxy community.
-
-We hope to increase the proficiency of members in the use of Galaxy tools and servers, contributing to open source projects as well as becoming active members of any of our channels and working groups.
-
-## Who are we?
+`npm install --global @gridsome/cli`
 
 
-## What do we need?
-**You!** In whatever way you can help.
+There are two ways to run Gridsome:
 
-We need your expertise in Galaxy, training, mentoring, communication. We'd love your feedback along the way, and of course.
+- **gridsome develop** - Starts a local development server.
+- **gridsome build** - Generates production ready static files.
 
-## Built With
+## Gridsome develop
 
-## Get Involved
-If you think you can help in any of the areas listed above (and we bet you can)
-or in any of the many areas that we haven't yet thought of (and here we're sure
-you can) then please check out [our contributors' guidelines](#)
-and our [roadmap](#).
+The `gridsome develop` command starts a local development server with hot-reloading for code/file changes and the GraphQL data layer. You can usually open the development server at `localhost:8080`, and explore the GraphQL data layer at `localhost:8080/___explore`.
 
-## Acknowledgment
 
+This is what's happening under the hood when running gridsome develop command:
+
+- **Initialize** - Reads project configuration and initializes installed plugins, etc.
+- **Load sources** - Source plugins fetch their data and update the internal store.
+- **Create GraphQL schema** - Generates the GraphQL schema from node types in the store.
+- **Generate code** - Generates runtime code like routes, plugins, etc.
+- **Bootstrap finish** - Starts the development server and shows the URLs in your console.
+
+## Gridsome build
+
+The `gridsome build` command prepares a project for production. This means it generates HTML files that are optimized and ready to be hosted and deployed to any FTP or static web host.
+
+This is what's happening under the hood when running gridsome build command:
+
+- **Initialize** - Reads project configuration and initializes installed plugins, etc.
+- **Load sources** - Source plugins fetch their data and update the internal store.
+- **Create GraphQL schema** - Generates the GraphQL schema from node types in store.
+- **Generate code** - Generates runtime code like routes, plugins, etc.
+- **Bootstrap finish** - Creates a render queue with all pages and templates.
+- **Run GraphQL** - Executes all `page-query queries and stores the results in `json` files.
+- **Compile assets** - Runs webpack to compile production-ready assets.
+- **Render HTML** - Renders all pages and templates into static `html` files.
+- **Process files** - Local files are copied to the `dist` folder.
+- **Process images** - Local images are processed and copied to the `dist` folder.
+
+
+Happy coding 🎉🙌
