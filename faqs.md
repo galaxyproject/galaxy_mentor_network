@@ -143,14 +143,3 @@ You and your Gmentee will also be supported by a network manager. The network ma
 
 ### How will I know if I'm doing a good job?
 Open communication is the key to any good Gmentoring. Throughout the Gmentoring programme, you should be speaking to your Gmentee about whether or not you are fulfilling the joint goals that you both set out at the beginning. Your network manager will also ask you to provide feedback on your progress and experience throughout the Gmentoring programme. If you are helping your Gmentee make progress on their project, then your Gmentoring is successful.
-
-
-
-
-
-
-
-
-
-
-
