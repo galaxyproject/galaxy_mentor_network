@@ -2,7 +2,7 @@
 
  Project Coordinators
  
- [Beatriz Serrano-Solano](#)
+- [Beatriz Serrano-Solano](#)
  
  [Berenice Batut](#)
  
