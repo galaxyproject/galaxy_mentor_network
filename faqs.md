@@ -12,7 +12,8 @@ More FAQs will be added to this page as questions arise.
 
 ## Galaxy
 ### What is the Galaxy?
-[Galaxy](#) is an open-source, open science platform for data integration and analysis that is deployed in hundreds of organizations around the world. 
+
+[Galaxy](https://galaxyproject.org/) is an open-source, open science platform for data integration and analysis that is deployed in hundreds of organizations around the world. 
 
 Galaxy was originally developed to support genomic data integration and analysis, and that is still the most common domain it is used in.  However, the platform itself is domain agnostic and can be used in any research domain that uses shared data formats and is compute and data-intensive.  Galaxy is now used in related domains such as proteomics, computational chemistry and molecular modeling, as well as in domains such as climate modelling and natural language processing that are far from life science.
 
