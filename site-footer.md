@@ -8,7 +8,7 @@
  
  ### Contact Us
  
-  Email: galaxy.mentoring@gmail.com
+- Email: [galaxy.mentoring@gmail.com](mailto:galaxy.mentoring@gmail.com)
   
   GitHub: Galaxy-Mentor-Network
     
