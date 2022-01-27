@@ -1,8 +1,9 @@
-<img width="500" align="right" alt="illustration" src="https://user-images.githubusercontent.com/82679007/150655220-d023b26e-ceab-4b37-9d66-0ad6b20f0628.png">
+---
+title: Mentorship...for you!
+subtitle: Do you need guidance on a project? Need help learning how to contribute to open source? Guidance in settling into the Galaxy ecosystem? More?
+---
 
-# Mentorship...for you!
-
-### Do you need guidance on a project? Need help learning how to contribute to open source? Guidance in settling into the Galaxy ecosystem? More?
+<img src="./assets/images/illustration.png" alt="Illustration." width="400"  align="right" />
 
 ## About Galaxy Mentorship Network Program
 
