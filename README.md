@@ -1,3 +1,6 @@
+Galaxy Mentor Network 
+=====================
+
 <img src="./images/logos/colour text.png" alt="GMN logo, a coloured GMN logo with transparent background." width="400"  align="right" />
 
 # Galaxy Mentorship Network (GMN)
@@ -34,4 +37,3 @@ you can) then please check out [our contributors' guidelines](#)
 and our [roadmap](#).
 
 ## Acknowledgment
-
