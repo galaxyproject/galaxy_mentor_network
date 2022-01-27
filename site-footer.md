@@ -3,10 +3,10 @@
  Project Coordinators
  
 - [Beatriz Serrano-Solano](https://matrix.to/#/@beatrizserrano:matrix.org)
- - [Bérénice Batut](https://matrix.to/#/@bebatut:matrix.org)
- - [Assunta DeSanto](https:matrix.to/#/@assuntad23:matrix.org)
+- [Bérénice Batut](https://matrix.to/#/@bebatut:matrix.org)
+- [Assunta DeSanto](https:matrix.to/#/@assuntad23:matrix.org)
  
- ### Contact Us
+### Contact Us
  
 - Email: [galaxy.mentoring@gmail.com](mailto:galaxy.mentoring@gmail.com)
 - GitHub: Galaxy-Mentor-Network
