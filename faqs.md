@@ -53,6 +53,7 @@ This Galaxy Gmentor Network Programme helps participants (network managers, Gmen
 - Network Managers accept to be part of the program by replying to the invite message.
 
 ### Can you tell me more about the Gmentors-Gmentees-Pairing (MMP) Process?
+
 Once a Gmentee submitted an application, it will be reviewed by the network manager and then shared with the pool of possible Gmentors. The Gmentors select their own Gmentees together with the network manager. The areas of Gmentorship are not limited to: Contributing to the community, Running data analysis, Instructing students, and Carrying out projects. This opportunity will help them over a period of two months to develop new skills and expertise and to be proficient and grow with the ecosystem.
 
 There are 2 general rules: 
