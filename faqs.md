@@ -68,7 +68,7 @@ Of course! Beyond the two months, Gmentor/Gmentee relationships continue based o
 
 It is not recommended to leave the programme before it is concluded, as it is a unique opportunity and experience that will add value to you from the beginning to the end. Its flexible nature allows you to accommodate other responsibilities while participating in the programme. If, however, you have to leave the programme, please notify us immediately so that someone else can be matched with your mentoring partner.
 
-## Gmentees <a name="Gmentees"></a>
+## Gmentees
 
 ### What are the criteria to join the program as a Gmentee?
 To apply for the GMN programme, you should be a Galaxy newcomer, a member who wants to move from one part of the Galaxy community to another or someone that needs support for a specific project. We also require you have a goal you intend to work on or at least an area that you have an interest in. However, if you don’t have a goal, your mentor and you will decide on a goal at the beginning of the mentoring program.
