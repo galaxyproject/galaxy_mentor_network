@@ -65,6 +65,7 @@ Each Gmentor/Gmentee is provided with a toolkit (slide deck, short video, and no
 Of course! Beyond the two months, Gmentor/Gmentee relationships continue based on the mutual interest of both parties. Officially, the program winds down after two months, but some of the best Gmentoring relationships continue well past the end of any formal, organizationally sanctioned timeframe.
 
 ### What happens if I need to leave the programme before it is concluded?
+
 It is not recommended to leave the programme before it is concluded, as it is a unique opportunity and experience that will add value to you from the beginning to the end. Its flexible nature allows you to accommodate other responsibilities while participating in the programme. If, however, you have to leave the programme, please notify us immediately so that someone else can be matched with your mentoring partner.
 
 ## Gmentees <a name="Gmentees"></a>
