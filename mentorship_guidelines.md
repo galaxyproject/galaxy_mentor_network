@@ -15,12 +15,12 @@ Highlights of this mentorship program include:
 
 ## Program Tracking
 
-**How we track progress**
+### How we track progress
 
 - Two feedbacks during the duration of the program: week 4 and week 8
 - Meeting with the Network Manager 
 
-**What are we tracking?**
+### What are we tracking?
 
 - Progress of GMentees’ project
 - Relationship between GMentor and GMentee(s)
@@ -44,7 +44,7 @@ Mentees are members of the Galaxy Community who:
 - Need mentorship in carrying out their projects.
 
 
-**First Steps: Getting Started**
+### First Steps: Getting Started
 
 Here's what you need to kick off:
 
@@ -56,7 +56,7 @@ Here's what you need to kick off:
 *Voila! You're set!*
 
 
-**Time Commitment**
+### Time Commitment
 
 As a GMentee, you are expected to give at least 5 hours a week to your project.
 Depending on your arrangements with your GMentor, meeting calls will be held as scheduled. A call with the Network Manager will also be held three times during the duration of the program.
@@ -64,7 +64,7 @@ Depending on your arrangements with your GMentor, meeting calls will be held as 
 Details of the meetings will be created in a Google calendar so you can add them to your calendar for reminders and updates.
 
 
-**Expectations**
+### Expectations
 
 - Your GMentor is available to guide you and answer all your questions to the best of their ability.
 - The sole responsibility of your project rests on you, your mentor will not carry out your project for you.
@@ -76,7 +76,7 @@ Details of the meetings will be created in a Google calendar so you can add them
 
 Mentors are members of the community who have volunteered to help mentor community members to foster the growth of the Galaxy Community.
 
-**First Steps: Getting Started**
+### First Steps: Getting Started
 
 Here's what you need to kick off:
 
@@ -89,7 +89,7 @@ Here's what you need to kick off:
 *Voila! You're set!*
 
 
-**Time Commitment**
+### Time Commitment
 
 As a GMentor, you are expected to give at least 30 minutes a week to your mentee’s project.
 Depending on your arrangements with your mentee, meeting calls will hold as scheduled. Also, a call with the Network Manager will be held three times during the duration of the program.
@@ -97,7 +97,7 @@ Depending on your arrangements with your mentee, meeting calls will hold as sche
 Details of the meetings will be created in a calendar so you can add them to your calendar for reminders and updates.
 
 
-**Expectations**
+### Expectations
 
 - Availability to guide mentees and answer all their questions to the best of your ability.
 - Detailed and Timely reviews on projects or contributions.
@@ -111,7 +111,7 @@ Details of the meetings will be created in a calendar so you can add them to you
 
 Network Managers are in charge of ensuring the smooth running of the mentorship program and the welfare of mentors and mentees.
 
-**First Steps: Getting Started**
+### First Steps: Getting Started
 
 Here's what you need to kick off:
 
@@ -124,7 +124,7 @@ Here's what you need to kick off:
 *Voila! You're set!*
 
 
-**Time Commitment**
+### Time Commitment
 
 As a Network Manager, you are expected to have at least three meetings with mentor groups during the program duration, these meeting calls will be held as scheduled.
 Network Managers have 3 mentor networks under them which they manage for 1 year, after which, they can choose to renew or terminate their commitment to the program.
@@ -132,7 +132,7 @@ Network Managers have 3 mentor networks under them which they manage for 1 year,
 Details of the meetings will be created in a Google calendar so you can add them to your calendar for reminders and updates.
 
 
-**Expectations**
+### Expectations
 
 - Network Managers will be in the mentor community chat channels and are expected to support both GMentors and GMentees.
 - Attend Mentor training session: link to the training will be provided in your mail.
