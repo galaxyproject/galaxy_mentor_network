@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/82679007/150870419-21f7d802-0e40-4a0c-b16a-17f37a18115c.png" alt="The Galaxy Mentor Network logo." width="400"  align="right" />
 
 # Galaxy Mentorship Network Guidelines
 
