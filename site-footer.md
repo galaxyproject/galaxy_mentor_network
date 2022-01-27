@@ -2,9 +2,9 @@
 
  Project Coordinators
  
-- [Beatriz Serrano-Solano](#)
- - [Bérénice Batut](#)
- - [Assunta DeSanto](#)
+- [Beatriz Serrano-Solano](https://matrix.to/#/@beatrizserrano:matrix.org)
+ - [Bérénice Batut](https://matrix.to/#/@bebatut:matrix.org)
+ - [Assunta DeSanto](https:matrix.to/#/@assuntad23:matrix.org)
  
  ### Contact Us
  
