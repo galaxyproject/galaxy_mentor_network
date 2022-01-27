@@ -13,7 +13,7 @@ Contents
 
 More FAQs will be added to this page as questions arise.
 
-## Galaxy <a name="Galaxy"></a>
+## Galaxy
 ### What is the Galaxy?
 [Galaxy](#) is an open-source, open science platform for data integration and analysis that is deployed in hundreds of organizations around the world. 
 
