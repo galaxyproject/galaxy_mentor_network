@@ -77,6 +77,7 @@ To apply for the GMN programme, you should be a Galaxy newcomer, a member who wa
 For our programme we expect our candidates to manifest motivation, commitment and critical thinking skills.
 
 ### How can I become a Gmentee?
+
 You are expected to fill the [application](#) telling us what you would like to achieve through the Gmentoring process. A quick review will be done by the network manager before sending it to the pool of Gmentors. Then the selection will be made by Gmentors based on your needed/required skills and experience.
 
 Meanwhile, if no Gmentors selected you because they didn’t seem to be the best person for you, the network manager will encourage you to seek help by asking questions in the Help Forum and Matrix channels. You will be notified immediately you're matched with a Gmentor.
