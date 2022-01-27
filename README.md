@@ -3,45 +3,41 @@ Galaxy Mentor Network
 
 # How can I generate the website locally?
 
-### 1. Install Gridsome CLI tool if you don't have
+## Requirements
 
-`npm install --global @gridsome/cli`
+- Node.js
 
+## Getting started
 
-There are two ways to run Gridsome:
+You can get the site running locally by first cloning this repo:
 
-- **gridsome develop** - Starts a local development server.
-- **gridsome build** - Generates production ready static files.
+```sh
+$ git clone https://github.com/bebatut/galaxy_mentor_network.git
+```
 
-## Gridsome develop
+Then install the dependencies:
 
-The `gridsome develop` command starts a local development server with hot-reloading for code/file changes and the GraphQL data layer. You can usually open the development server at `localhost:8080`, and explore the GraphQL data layer at `localhost:8080/___explore`.
+```sh
+$ cd galaxy_mentor_network
+$ npm install
+```
 
+Then you can build the site in development mode to run it in a local server (at http://localhost:8080) and see your content:
 
-This is what's happening under the hood when running gridsome develop command:
+```sh
+$ npm run develop
+```
 
-- **Initialize** - Reads project configuration and initializes installed plugins, etc.
-- **Load sources** - Source plugins fetch their data and update the internal store.
-- **Create GraphQL schema** - Generates the GraphQL schema from node types in the store.
-- **Generate code** - Generates runtime code like routes, plugins, etc.
-- **Bootstrap finish** - Starts the development server and shows the URLs in your console.
+This command includes a hot reloader which will update the site automatically each time you edit a file.
+Note: There's a [minor known issue](https://github.com/galaxyproject/galaxy-hub/issues/748) that can occur when you're renaming/moving/deleting directories or image files. If you're finding the development server crashes too often, try adding the arguments `--resource copy` to the `yarn develop` command. This fixes the issue, at the cost of a far larger build directory (because all images are copied to it instead of linked).
 
-## Gridsome build
+To generate the static files for the entire site, just run `build` instead:
 
-The `gridsome build` command prepares a project for production. This means it generates HTML files that are optimized and ready to be hosted and deployed to any FTP or static web host.
+```sh
+$ nprm run build
+```
 
-This is what's happening under the hood when running gridsome build command:
+The static files can then be found in the `dist` directory.
 
-- **Initialize** - Reads project configuration and initializes installed plugins, etc.
-- **Load sources** - Source plugins fetch their data and update the internal store.
-- **Create GraphQL schema** - Generates the GraphQL schema from node types in store.
-- **Generate code** - Generates runtime code like routes, plugins, etc.
-- **Bootstrap finish** - Creates a render queue with all pages and templates.
-- **Run GraphQL** - Executes all `page-query queries and stores the results in `json` files.
-- **Compile assets** - Runs webpack to compile production-ready assets.
-- **Render HTML** - Renders all pages and templates into static `html` files.
-- **Process files** - Local files are copied to the `dist` folder.
-- **Process images** - Local images are processed and copied to the `dist` folder.
+## Creating static pages
 
-
-Happy coding 🎉🙌
