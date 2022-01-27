@@ -71,6 +71,7 @@ It is not recommended to leave the programme before it is concluded, as it is a 
 ## Gmentees
 
 ### What are the criteria to join the program as a Gmentee?
+
 To apply for the GMN programme, you should be a Galaxy newcomer, a member who wants to move from one part of the Galaxy community to another or someone that needs support for a specific project. We also require you have a goal you intend to work on or at least an area that you have an interest in. However, if you don’t have a goal, your mentor and you will decide on a goal at the beginning of the mentoring program.
 
 For our programme we expect our candidates to manifest motivation, commitment and critical thinking skills.
