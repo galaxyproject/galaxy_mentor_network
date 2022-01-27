@@ -26,6 +26,7 @@ Galaxy is a sprawling ecosystem and a dispersed community. It is easy for newcom
 ## The Galaxy Mentor Network program <a name="GMN"></a>
 
 ### What should I know about the GMN programme?
+
 Designed for any Galaxy members (both new and existing), this two months Gmentoring programme will equip participants (Gmentees and Gmentors) with a broad set of practical skills to boost knowledge and thrive in the Galaxy community.
 
 **Gmentees** can be any Galaxy member. During the course of the program, Gmentees are required to complete their individual or team projects and share them with their Gmentor. 
