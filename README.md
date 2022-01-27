@@ -1,3 +1,6 @@
+Galaxy Mentor Network
+=====================
+
 # How can I generate the website locally?
 
 ### 1. Install Gridsome CLI tool if you don't have
