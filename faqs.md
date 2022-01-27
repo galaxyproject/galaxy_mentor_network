@@ -45,6 +45,7 @@ This Galaxy Gmentor Network Programme helps participants (network managers, Gmen
 - empower each other to become effective Galaxy community members.
 
 ### How to join the program?
+
 **As part of the process:**
 
 Gmentees join this program with goals that they want to achieve during this program. With support from their mentors, they complete these successfully.
