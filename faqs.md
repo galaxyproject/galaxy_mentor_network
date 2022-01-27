@@ -23,7 +23,7 @@ Galaxy is a global community of researchers, trainers, students, bioinformaticia
 
 Galaxy is a sprawling ecosystem and a dispersed community. It is easy for newcomers to get overwhelmed by the many Galaxy resources and community communication channels. The Galaxy Mentor Network is established to connect newcomers with experienced community members to help prevent newcomers from getting lost.
 
-## The Galaxy Mentor Network program <a name="GMN"></a>
+## The Galaxy Mentor Network program
 
 ### What should I know about the GMN programme?
 
