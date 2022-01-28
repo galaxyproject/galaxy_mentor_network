@@ -52,4 +52,4 @@ Requests:
 As we move forward with this project, you will find lists of [issues](https://github.com/bebatut/galaxy_mentor_network/issues) to fix and features to implement. Feel
 free to work on them!
 
-**Note:** The texts in this file were copied from [Open Life Science](https://github.com/open-life-science/open-life-science.github.io/blob/main/CONTRIBUTING.md) but made a few changes to it.
+**Note:** The content of this file was highly inspired from the [Open Life Science `CONTRIBUTING.md` file](https://github.com/open-life-science/open-life-science.github.io/blob/main/CONTRIBUTING.md).
