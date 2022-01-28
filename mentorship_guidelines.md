@@ -43,6 +43,19 @@ Mentees are members of the Galaxy Community who:
 - Need to learn how to be a mentor.
 - Need mentorship in carrying out their projects.
 
+### Expectations
+
+- Your GMentor is available to guide you and answer all your questions to the best of their ability.
+- The sole responsibility of your project rests on you, your mentor will not carry out your project for you.
+- Detailed and Timely reviews on your project or contributions will be given by GMentors.
+- At least 30 minutes of meeting calls between you and your mentor will be held weekly.
+
+### Time Commitment
+
+As a GMentee, you are expected to give at least 5 hours a week to your project.
+Depending on your arrangements with your GMentor, meeting calls will be held as scheduled. A call with the Network Manager will also be held three times during the duration of the program.
+
+Details of the meetings will be created in a Google calendar so you can add them to your calendar for reminders and updates.
 
 ### First Steps: Getting Started
 
@@ -55,26 +68,25 @@ Here's what you need to kick off:
 
 *Voila! You're set!*
 
-
-### Time Commitment
-
-As a GMentee, you are expected to give at least 5 hours a week to your project.
-Depending on your arrangements with your GMentor, meeting calls will be held as scheduled. A call with the Network Manager will also be held three times during the duration of the program.
-
-Details of the meetings will be created in a Google calendar so you can add them to your calendar for reminders and updates.
-
-
-### Expectations
-
-- Your GMentor is available to guide you and answer all your questions to the best of their ability.
-- The sole responsibility of your project rests on you, your mentor will not carry out your project for you.
-- Detailed and Timely reviews on your project or contributions will be given by GMentors.
-- At least 30 minutes of meeting calls between you and your mentor will be held weekly.
-
-
 ## Mentors
 
 Mentors are members of the community who have volunteered to help mentor community members to foster the growth of the Galaxy Community.
+
+### Expectations
+
+- Availability to guide mentees and answer all their questions to the best of your ability.
+- Detailed and Timely reviews on projects or contributions.
+- At least 30 minutes of meeting calls between you and your mentee is held weekly.
+- Attend a Mentor training session: a link to the training video will be provided in your mail.
+- Report issues or ask questions in the GMentor community chat.
+- Support is provided for all mentors in the matrix chat.
+
+### Time Commitment
+
+As a GMentor, you are expected to give at least 30 minutes a week to your mentee’s project.
+Depending on your arrangements with your mentee, meeting calls will hold as scheduled. Also, a call with the Network Manager will be held three times during the duration of the program.
+
+Details of the meetings will be created in a calendar so you can add them to your calendar for reminders and updates.
 
 ### First Steps: Getting Started
 
@@ -89,27 +101,23 @@ Here's what you need to kick off:
 *Voila! You're set!*
 
 
-### Time Commitment
-
-As a GMentor, you are expected to give at least 30 minutes a week to your mentee’s project.
-Depending on your arrangements with your mentee, meeting calls will hold as scheduled. Also, a call with the Network Manager will be held three times during the duration of the program.
-
-Details of the meetings will be created in a calendar so you can add them to your calendar for reminders and updates.
-
-
-### Expectations
-
-- Availability to guide mentees and answer all their questions to the best of your ability.
-- Detailed and Timely reviews on projects or contributions.
-- At least 30 minutes of meeting calls between you and your mentee is held weekly.
-- Attend a Mentor training session: a link to the training video will be provided in your mail.
-- Report issues or ask questions in the GMentor community chat.
-- Support is provided for all mentors in the matrix chat.
-
-
 ## Network Managers
 
 Network Managers are in charge of ensuring the smooth running of the mentorship program and the welfare of mentors and mentees.
+
+### Expectations
+
+- Network Managers will be in the mentor community chat channels and are expected to support both GMentors and GMentees.
+- Attend Mentor training session: link to the training will be provided in your mail.
+- Respond to issues or questions asked in the mentor community chat.
+- Support is provided for all GMentors and GMentees in the matrix chat.
+
+### Time Commitment
+
+As a Network Manager, you are expected to have at least three meetings with mentor groups during the program duration, these meeting calls will be held as scheduled.
+Network Managers have 3 mentor networks under them which they manage for 1 year, after which, they can choose to renew or terminate their commitment to the program.
+
+Details of the meetings will be created in a Google calendar so you can add them to your calendar for reminders and updates.
 
 ### First Steps: Getting Started
 
@@ -122,22 +130,6 @@ Here's what you need to kick off:
 - Host the introductory call with mentor groups.
 
 *Voila! You're set!*
-
-
-### Time Commitment
-
-As a Network Manager, you are expected to have at least three meetings with mentor groups during the program duration, these meeting calls will be held as scheduled.
-Network Managers have 3 mentor networks under them which they manage for 1 year, after which, they can choose to renew or terminate their commitment to the program.
-
-Details of the meetings will be created in a Google calendar so you can add them to your calendar for reminders and updates.
-
-
-### Expectations
-
-- Network Managers will be in the mentor community chat channels and are expected to support both GMentors and GMentees.
-- Attend Mentor training session: link to the training will be provided in your mail.
-- Respond to issues or questions asked in the mentor community chat.
-- Support is provided for all GMentors and GMentees in the matrix chat.
 
 See our amazing GMentors and Network Managers [here](#) 
 
