@@ -39,5 +39,55 @@ $ nprm run build
 
 The static files can then be found in the `dist` directory.
 
-## Creating static pages
+## Creating a static page
+
+1. Create a markdown file in `content` folder
+2. Copy on the top of the file the following:
+
+    ```
+    ---
+    id: <id>
+    title: <Title>
+    ---
+    ```
+
+3. Replace
+    - `<id>` by the filename
+    - `<Title>` by a title for the page
+4. Create a `<Id>.vue` (replace `<Id>` by the previous filename) file in `src/pages/`
+5. Copy on the top of the file the following:
+
+    ```
+    <template>
+        <Layout>
+            <h1 class="page-title">{{ $page.main.title }}</h1>
+            <div class="markdown" v-html="$page.main.content" />
+        </Layout>
+    </template>
+
+    <page-query>
+    query {
+        main: insert (path: "/content/<id>/") {
+            id
+            title
+            content
+            fileInfo {
+                path
+            }
+        }
+    }
+    </page-query>
+
+    <script>
+    export default {
+        metaInfo: {
+            title: "GMN - <Short title>"
+        }
+    }
+    </script>
+    ```
+
+6. Replace
+    - `<id>` by the filename
+    - `<Short title>` by a short title for the page
 

@@ -1,4 +1,7 @@
-# Frequently Asked Questions (FAQs)
+---
+id: faq
+title: "Frequently Asked Questions (FAQs)"
+---
 
 Contents
 
