@@ -1,5 +1,7 @@
-
-# Frequently Asked Questions (FAQs)
+---
+id: faq
+title: "Frequently Asked Questions (FAQs)"
+---
 
 Contents
 
@@ -14,7 +16,7 @@ More FAQs will be added to this page as questions arise.
 
 ### What is the Galaxy?
 
-[Galaxy](https://galaxyproject.org/) is an open-source, open science platform for data integration and analysis that is deployed in hundreds of organizations around the world. 
+[Galaxy](https://galaxyproject.org/) is an open-source, open science platform for data integration and analysis that is deployed in hundreds of organizations around the world.
 
 Galaxy was originally developed to support genomic data integration and analysis, and that is still the most common domain it is used in.  However, the platform itself is domain agnostic and can be used in any research domain that uses shared data formats and is compute and data-intensive.  Galaxy is now used in related domains such as proteomics, computational chemistry and molecular modeling, as well as in domains such as climate modelling and natural language processing that are far from life science.
 
@@ -30,11 +32,11 @@ Galaxy is a sprawling ecosystem and a dispersed community. It is easy for newcom
 
 Designed for any Galaxy members (both new and existing), this two months Gmentoring programme will equip participants (Gmentees and Gmentors) with a broad set of practical skills to boost knowledge and thrive in the Galaxy community.
 
-**Gmentees** can be any Galaxy member. During the course of the program, Gmentees are required to complete their individual or team projects and share them with their Gmentor. 
+**Gmentees** can be any Galaxy member. During the course of the program, Gmentees are required to complete their individual or team projects and share them with their Gmentor.
 
 Gmentees must be willing to accept constructive feedback from their Gmentors related to their projects and goals and commit themselves to continuous growth and improvement in project skills and knowledge in order to develop new skills and expertise and to be proficient and grow with Galaxy.
 
-**Gmentors** are seasoned Galaxy community members who can commit to regular meetings for 2 months (recommended: at least 30 mins meetings biweekly). Gmentors help to ensure their Gmentee has a successful transition into the Galaxy community. 
+**Gmentors** are seasoned Galaxy community members who can commit to regular meetings for 2 months (recommended: at least 30 mins meetings biweekly). Gmentors help to ensure their Gmentee has a successful transition into the Galaxy community.
 
 They serve as a resource and repository of information, connect with people and the community, assist in purposeful networking, and provide thought and guidance throughout the completion of the project.
 
@@ -57,7 +59,7 @@ This Galaxy Gmentor Network Programme helps participants (network managers, Gmen
 
 Once a Gmentee submitted an application, it will be reviewed by the network manager and then shared with the pool of possible Gmentors. The Gmentors select their own Gmentees together with the network manager. The areas of Gmentorship are not limited to: Contributing to the community, Running data analysis, Instructing students, and Carrying out projects. This opportunity will help them over a period of two months to develop new skills and expertise and to be proficient and grow with the ecosystem.
 
-There are 2 general rules: 
+There are 2 general rules:
 - Discussions and everything you will share with your Gmentor will remain between you (except in case of Code of Conduct violation)
 - Gmentor & Gmentee schedule a minimum of a monthly virtual meeting.
 
@@ -99,7 +101,7 @@ As a Gmentee, you are given the once-in-a-lifetime opportunity to meet an experi
 
 As a Gmentee, you are responsible for your own project and being an active participant in the Gmentoring programme. This includes making sure you keep in touch regularly with your Gmentor throughout the program. You are expected to act on advice and resources provided by your Gmentor.
 
-As a Gmentee you are expected to be fully engaged in the Gmentoring programme, committed to the opportunity and respectful of the Gmentor’s dedication and external responsibilities, responding and communicating in a timely and appropriate fashion. If you have any challenges during the process you should get in touch with the network manager immediately. 
+As a Gmentee you are expected to be fully engaged in the Gmentoring programme, committed to the opportunity and respectful of the Gmentor’s dedication and external responsibilities, responding and communicating in a timely and appropriate fashion. If you have any challenges during the process you should get in touch with the network manager immediately.
 
 ### Can I be Gmentored through the program more than once?
 
@@ -109,13 +111,13 @@ Well, you are welcome back again! But you should consider leaving space for othe
 
 Upon successful completion of the Gmentoring, you will have gained valuable insights into your project, new perspectives and new skills. Moreover, you will most probably have gained a lifelong friend!
 
-You will receive a programme completion certificate and you will become part of the broader GMN community which will be a network of support to you. 
+You will receive a programme completion certificate and you will become part of the broader GMN community which will be a network of support to you.
 
 ###  If my application is not successful can I apply for a second time?
 
 As long as you still meet the eligibility criteria, you are welcome to apply again! Please note that due to the high volume of applications we will not provide any feedback on unsuccessful applications.
 
-## Gmentors 
+## Gmentors
 
 ### How can I become a Gmentor?
 
@@ -127,7 +129,7 @@ As general guidelines, we recommend a minimum requirement of communicating with 
 
 ### What are my roles and responsibilities as a Gmentor?
 
-As a Gmentor, you will have the opportunity to help other individuals have a successful transition into Galaxy or a part of Galaxy. You will serve as a role model, and an independent sounding board, provide guidance, advice, feedback, and support to the Gmentees based on his or her unique needs. and help to prevent Gmentees from getting lost. 
+As a Gmentor, you will have the opportunity to help other individuals have a successful transition into Galaxy or a part of Galaxy. You will serve as a role model, and an independent sounding board, provide guidance, advice, feedback, and support to the Gmentees based on his or her unique needs. and help to prevent Gmentees from getting lost.
 
 One of your most significant contributions as a Gmentor is to support the Gmentee with resources and guidance to complete the project and become an active member of the Galaxy community.
 
@@ -154,7 +156,7 @@ If you could support another newcomer, it would be fantastic! Repeat Gmentors br
 
 Before you start Gmentoring someone, you will be provided with a Gmentor orientation slide deck to learn more about your role and responsibilities as a Gmentor.
 
-Both you and your Gmentee will have access to online resources to guide you through your program. These tools offer tips for Gmentors about how to best guide their Gmentees. They also contain information for Gmentees to help them in completing their project. 
+Both you and your Gmentee will have access to online resources to guide you through your program. These tools offer tips for Gmentors about how to best guide their Gmentees. They also contain information for Gmentees to help them in completing their project.
 
 You and your Gmentee will also be supported by a network manager. The network managers will also organize community meetings for all Gmentors in the programme to discuss their difficulties, things to change, etc. Their role is to help you both throughout the entire Gmentoring programme and respond to your questions and concerns.
 

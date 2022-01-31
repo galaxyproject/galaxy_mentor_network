@@ -1,19 +1,15 @@
 ---
-title: Mentorship...for you!
-subtitle: Do you need guidance on a project? Need help learning how to contribute to open source? Guidance in settling into the Galaxy ecosystem? More?
+id: about
+title: About the Galaxy Mentorshing Network Program
 ---
 
-![Two persons side by side in front of a computer](assets/images/illustration.png)
-
-## About Galaxy Mentorship Network Program
-
-Galaxy Mentorship Network (GMN) program is an initiative by the Galaxy Community to build her members in open source projects. 
+Galaxy Mentoring Network (GMN) program is an initiative by the Galaxy Community to build her members in open source projects.
 
 It is run on an open enrollment basis where mentees and mentors can apply at any time of need, this is so especially because we have a lot of new members who join regularly and may immediately need someone to guide them. This is a program by Galaxy members and for Galaxy members.
 
 ## Vision
 
- We hope to increase the proficiency of members in the use of Galaxy tools and servers, contributing to open source projects as well as becoming active members of any of our channels and working groups.
+We hope to increase the proficiency of members in the use of Galaxy tools and servers, contributing to open source projects as well as becoming active members of any of our channels and working groups.
 
 ### Benefits of the GMN program
 
