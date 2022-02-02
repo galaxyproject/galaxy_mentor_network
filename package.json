@@ -1,5 +1,5 @@
 {
-  "name": "Galaxy Mentoring Network",
+  "name": "galaxy_mentoring_network",
   "private": true,
   "scripts": {
     "build": "gridsome build",
