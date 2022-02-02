@@ -56,5 +56,3 @@ As soon as a match occurs, the Network Manager will send mails to the GMentee(s)
 We wish you the very best of luck!
 
 **GMN Team**
-
-
