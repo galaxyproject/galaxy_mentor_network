@@ -13,5 +13,9 @@
     "bootstrap-vue": "^2.21.2",
     "gridsome": "^0.7.0",
     "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "sass": "^1.49.7",
+    "sass-loader": "^10.2.1"
   }
 }
