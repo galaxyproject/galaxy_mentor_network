@@ -3,7 +3,7 @@
         <header class="masthead">
             <b-navbar class="container justify-content-center" toggleable="lg">
                 <b-navbar-brand href="#">
-                    <img src="assets/images/logos/colour_text.png" class="d-inline-block align-top" alt="GMN Logo">
+                    <img src="src/favicon.png" class="d-inline-block align-top" alt="GMN Logo">
                   {{ $static.metadata.siteName }}
                 </b-navbar-brand>
                 <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
