@@ -1,16 +1,18 @@
 <template>
-  <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
-        <g-link class="nav__link" to="/faq/">FAQ</g-link>
-        <g-link class="nav__link" to="/blog/">Blog</g-link>
-      </nav>
-    </header>
+  <b-navbar variant="dark" type="dark">
+    <b-navbar-brand href="#">
+      <img src="assets/images/logos/colour_text.png" class="d-inline-block align-top" alt="GMN Logo">
+      Galaxy Mentor Network
+    <b-nav-item>About</b-nav-item>
+
+    <b-nav-item-dropdown text="GMN Guides" right>
+        <b-dropdown-item href="#">Application Guidelines</b-dropdown-item>
+        <b-dropdown-item href="#">Mentroship Guidelines</b-dropdown-item>
+      </b-nav-item-dropdown>
+    <b-nav-item>FAQ</b-nav-item>
+    <b-nav-item disabled>Project & Participants</b-nav-item>
+    <b-nav-item>Blog</b-nav-item>
+  </b-nav>
     <slot/>
   </div>
 </template>
