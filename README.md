@@ -46,7 +46,7 @@ Node.js v17.0.0
 As stated in [this issue](https://github.com/vercel/next.js/issues/30078#issuecomment-947338268), it can be solved with:
 
 ```sh
-$ NODE_OPTIONS=--openssl-legacy-provider yarn dev
+$ export NODE_OPTIONS=--openssl-legacy-provider
 ```
 
 ## Creating a static page
