@@ -1,3 +1,4 @@
+// Every single line in this file was gotten from the [Galaxy Hub](https://github.com/galaxyproject/galaxy-hub/blob/master/src/assets/styles.scss).
 // Everything is derived from $base-color
 // Caveat: currently only works for light colored backgrounds, scss provides functions (contrast) that could be used to improve this
 
@@ -201,5 +202,3 @@ $input-bg-disabled: $gray-lighter;
 // Try to avoid customizing these :)
 
 $zindex-navbar: 1000;
-
-// Every single line in this file was gotten from the [Galaxy Hub](https://github.com/galaxyproject/galaxy-hub/blob/master/src/assets/styles.scss).
