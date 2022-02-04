@@ -39,6 +39,7 @@ $carousel-indicator-active-bg: $navbar-inverse-bg;
 $carousel-control-width: 5%;
 
 @import "~bootstrap/scss/bootstrap.scss";
+@import '~bootstrap-vue/src/index.scss';
 
 //@import "~@fortawesome/fontawesome-free/scss/_variables.scss";
 $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
@@ -211,9 +212,9 @@ card-img-top {
     font-weight: 600;
 }
 
-/* 
-   Button overrides; 
-   more space between buttons on multiple consecutive lines 
+/*
+   Button overrides;
+   more space between buttons on multiple consecutive lines
    overall line-height is unchanged.
 */
 
