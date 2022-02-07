@@ -3,12 +3,12 @@
         <header class="masthead">
             <b-navbar class="container justify-content-center" toggleable="lg">
                 <b-navbar-brand href="#">
-                    <img src="src/favicon.png" class="d-inline-block align-top" alt="GMN Logo">
+                    <g-image src="~/images/logos/logo_wo_text.png" class="d-inline-block align-top" width="50" alt="GMN Logo"/>
                   {{ $static.metadata.siteName }}
                 </b-navbar-brand>
                 <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
                 <b-collapse id="nav-collapse" is-nav>
-                    <b-navbar-nav id="navbar-menu">
+                    <b-navbar-nav id="navbar-menu" class="ml-auto">
                         <b-nav-item href="/about/">About</b-nav-item>
                         <b-nav-item-dropdown text="Guides" right>
                             <b-dropdown-item href="#">Application Guidelines</b-dropdown-item>
