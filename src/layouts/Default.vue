@@ -15,7 +15,7 @@
                             <b-dropdown-item href="#">Mentorship Guidelines</b-dropdown-item>
                         </b-nav-item-dropdown>
                         <b-nav-item href="/faq/">FAQ</b-nav-item>
-                        <b-nav-item-dropdown text="Networks" right>
+                        <b-nav-item-dropdown text="Network" right>
                             <b-dropdown-item href="#">Gmentees</b-dropdown-item>
                             <b-dropdown-item href="#">Gmentors</b-dropdown-item>
                             <b-dropdown-item href="#">Network Managers</b-dropdown-item>
