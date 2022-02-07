@@ -21,7 +21,7 @@ query {
 <script>
 export default {
     metaInfo: {
-        title: "GMN - Mentorship_guidelines"
+        title: "GMN - Mentorship Guidelines"
     }
 }
 </script>
