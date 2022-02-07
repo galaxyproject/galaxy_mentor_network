@@ -11,11 +11,15 @@
                     <b-navbar-nav id="navbar-menu" class="ml-auto">
                         <b-nav-item href="/about/">About</b-nav-item>
                         <b-nav-item-dropdown text="Guides" right>
-                            <b-dropdown-item href="#">Application Guidelines</b-dropdown-item>
+                            <b-dropdown-item href="application">Application Guidelines</b-dropdown-item>
                             <b-dropdown-item href="#">Mentorship Guidelines</b-dropdown-item>
                         </b-nav-item-dropdown>
                         <b-nav-item href="/faq/">FAQ</b-nav-item>
-                        <b-nav-item href ="/participants/">Participants & Projects</b-nav-item>
+                        <b-nav-item-dropdown text="Networks" right>
+                            <b-dropdown-item href="#">Gmentees</b-dropdown-item>
+                            <b-dropdown-item href="#">Gmentors</b-dropdown-item>
+                            <b-dropdown-item href="#">Network Managers</b-dropdown-item>
+                        </b-nav-item-dropdown>
                         <b-nav-item href="/blog/">Blog</b-nav-item>
                     </b-navbar-nav>
                 </b-collapse>
