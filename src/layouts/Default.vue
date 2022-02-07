@@ -15,7 +15,7 @@
                             <b-dropdown-item href="#">Mentorship Guidelines</b-dropdown-item>
                         </b-nav-item-dropdown>
                         <b-nav-item href="/faq/">FAQ</b-nav-item>
-                        <b-nav-item href ="/participants/">Project & Participants</b-nav-item>
+                        <b-nav-item href ="/participants/">Participants & Projects</b-nav-item>
                         <b-nav-item href="/blog/">Blog</b-nav-item>
                     </b-navbar-nav>
                 </b-collapse>
