@@ -7,7 +7,7 @@
 
 <page-query>
 query {
-    main: insert (path: "/content/networks/") {
+    main: insert (path: "/content/network/") {
         id
         title
         content
@@ -21,7 +21,7 @@ query {
 <script>
 export default {
     metaInfo: {
-        title: "GMN - Networks"
+        title: "GMN - Network"
     }
 }
 </script>
