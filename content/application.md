@@ -1,6 +1,6 @@
 ---
 id: application
-title: Galaxy Community Mentorship Application Guidelines
+title: Application Guidelines
 ---
 
 ## Eligibility
