@@ -25,7 +25,7 @@
                 </b-collapse>
             </b-navbar>
         </header>
-        <main id="maincontainer" class="container">
+        <main class="container maincontainer">
             <slot />
         </main>
         <footer class="footer">

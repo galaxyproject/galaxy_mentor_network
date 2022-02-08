@@ -27,7 +27,6 @@ $headings-small-color: inherit;
 $body-bg: white;
 $navbar-default-bg: rgb(255, 255, 255);
 $navbar-default-border: none;
-
 $navbar-inverse-bg: rgb(44, 49, 67);
 
 $grid-float-breakpoint: 1000px;
@@ -53,10 +52,6 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
 html {
     position: relative;
     min-height: 100%;
-}
-
-body {
-    margin-bottom: 60px;
 }
 
 .gitter-chat-embed,
