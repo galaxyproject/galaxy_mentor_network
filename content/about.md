@@ -1,7 +1,9 @@
 ---
 id: about
-title: About the Galaxy Mentorshing Network Program
+title: About the Galaxy Mentoring Network Program
 ---
+
+**Galaxy Mentoring Network (GMN)** program is an initiative by the Galaxy Community to build her members in open source projects.
 
 ## About Galaxy
 
@@ -15,24 +17,18 @@ Galaxy is a global community of researchers, trainers, students, bioinformaticia
 
 Galaxy is a sprawling ecosystem and a dispersed community. It is easy for newcomers to get overwhelmed by the many Galaxy resources and community communication channels. The Galaxy Mentor Network is established to connect newcomers with experienced community members to help prevent newcomers from getting lost.
 
-<div class="img-fluid mx-auto trim-p">
+![The Galaxy Community at GCC2019](assets/images/gcc2019-grouppicture.jpg)*GCC2019 in Freiburg, Germany, photo by Bérénice Batut*
 
-![The Galaxy Community at GCC2019](assets/images/gcc2019-grouppicture.jpg)
 
-<small>GCC2019 in Freiburg, Germany, photo by Bérénice Batut</small>
-</div>
-
-## Galaxy Mentoring Network (GMN)
-
-Galaxy Mentoring Network (GMN) program is an initiative by the Galaxy Community to build her members in open source projects.
-
-It is run on an open enrollment basis where mentees and mentors can apply at any time of need, this is so especially because we have a lot of new members who join regularly and may immediately need someone to guide them. This is a program by Galaxy members and for Galaxy members.
-
-## Vision
+## Our Vision
 
 We hope to increase the proficiency of members in the use of Galaxy tools and servers, contributing to open source projects as well as becoming active members of any of our channels and working groups.
 
+
 ## The GMN Mentoring Program
+
+The GMN Mentoring Program is run on an open enrollment basis where mentees and mentors can apply at any time of need, this is so especially because we have a lot of new members who join regularly and may immediately need someone to guide them. This is a program by Galaxy members and for Galaxy members.
+
 We define mentoring as information and knowledge sharing between Galaxy members for the purpose of achieving an agreed goal through dialogue, action and reflection.
 
 **The Program involves:**
@@ -43,8 +39,8 @@ We define mentoring as information and knowledge sharing between Galaxy members 
 
 The GMN Mentoring Program offers two mentorship alternatives:
 
-- For a mentee to work individually with a mentor on a goal
-- For several mentees to work collaboratively with a pair of mentor(s) on goals related to a negotiated overall topic
+- For a mentee to work individually with a mentor on a goal.
+- For several mentees to work collaboratively with a pair of mentor(s) on goals related to a negotiated overall topic.
 
 ## Benefits of the GMN program
 
