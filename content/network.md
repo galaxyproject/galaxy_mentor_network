@@ -1,5 +1,5 @@
 ---
-id: Network
+id: network
 title: Network
 subtitle: Meet Our Participants 
 ---
