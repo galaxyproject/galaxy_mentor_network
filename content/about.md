@@ -25,9 +25,9 @@ Galaxy is a sprawling ecosystem and a dispersed community. It is easy for newcom
 We hope to increase the proficiency of members in the use of Galaxy tools and servers, contributing to open source projects as well as becoming active members of any of our channels and working groups.
 
 
-## The GMN Mentoring Program
+## The Galaxy Mentoring Program
 
-The GMN Mentoring Program is run on an open enrollment basis where mentees and mentors can apply at any time of need, this is so especially because we have a lot of new members who join regularly and may immediately need someone to guide them. This is a program by Galaxy members and for Galaxy members.
+The Galaxy Mentoring Program is run on an open enrollment basis where mentees and mentors can apply at any time of need, this is so especially because we have a lot of new members who join regularly and may immediately need someone to guide them. This is a program by Galaxy members and for Galaxy members.
 
 We define mentoring as information and knowledge sharing between Galaxy members for the purpose of achieving an agreed goal through dialogue, action and reflection.
 
@@ -37,7 +37,7 @@ We define mentoring as information and knowledge sharing between Galaxy members 
 
 **Gmentors** (Galaxy Mentors): Experienced Galaxy Members, who are driven by the spirit of “giving back”, making their expertise and experience at Galaxy and beyond available to other Galaxy members to support them in contributing to Galaxy and transitioning from one part of the Galaxy community to another.
 
-The GMN Mentoring Program offers two mentorship alternatives:
+The Galaxy Mentoring Program offers two mentorship alternatives:
 
 - For a mentee to work individually with a mentor on a goal.
 - For several mentees to work collaboratively with a pair of mentor(s) on goals related to a negotiated overall topic.
