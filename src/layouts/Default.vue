@@ -28,36 +28,31 @@
         <main id="maincontainer" class="container">
             <slot />
         </main>
-        <footer style= "background-color:#ece9ef;">
-          <b-container style="padding:20px">
-             <h3>Get in touch</h3>
-             <!--Grid row-->
-             <b-row>
-                  <!--Grid column-->
-                  <b-col lg="6" md="6" sm="12">
-                 
-                 <p>
-                     <span class="fab fa-gitter"></span>Discuss with us on <a href="#">Matrix</a>
-                     <br>
-                     <span class="fas fa-envelop"></span><a href="mailto:galaxy.mentoring@gmail.com">galaxy.mentoring@gmail.com</a>
-                     <br>
-                     <span class="fab fa-github"></span><a href="https://github.com/bebatut/galaxy_mentor_network">Galaxy_Mentor_Network</a>
-                   </p>
-                  </b-col>
-
-                   <!--Grid column-->
-                  <b-col lg="6" md="6" sm="12">
-                       <p>
-                         The <a href="#">FAQ</a> section contains answers to most of the questions on your mind. Do you want to report a problem or suggest an improvement? We'll appreciate if you <a href="https://github.com/bebatut/galaxy_mentor_network/issues">open an issue</a> on our GitHub repository and we'll attend to it as quickly as possible.
-                       </p>
+        <footer class="footer">
+            <b-container class="footer-container">
+                <b-row>
+                    <b-col>
+                        <h3>Get in touch</h3>
                         <p>
-                          This website content is licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY SA 4.0</a>
-                    </p>
-                  </b-col>
-                  <!--Grid column-->
-              </b-row>
-              <!--Grid row-->
-          </b-container>
+                            <i class="fab fa-gitter"></i>
+                            Discuss with us on <a href="#">Matrix</a>
+                            <br>
+                            <i class="fab fa-envelope"></i>
+                            Email us at <a href="mailto:galaxy.mentoring@gmail.com">galaxy.mentoring@gmail.com</a>
+                            <br>
+                            <i class="fab fa-github"></i>
+                            Check our <a href="https://github.com/bebatut/galaxy_mentor_network">GitHub repository</a>
+                        </p>
+                    </b-col>
+                    <b-col>
+                        <p>The <a href="/faq/">FAQ</a> section contains answers to most of the questions on your mind.</p>
+
+                        <p>Do you want to report a problem or suggest an improvement? We'll appreciate if you <a href="https://github.com/bebatut/galaxy_mentor_network/issues">open an issue</a> on our GitHub repository and we'll attend to it as quickly as possible.</p>
+
+                        <p>This website content is licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY SA 4.0</a></p>
+                    </b-col>
+                </b-row>
+            </b-container>
         </footer>
     </div>
 </template>
@@ -75,11 +70,4 @@ query {
   }
 }
 </static-query>
-
-<style lang=".scss" scoped>
-  footer {
-    background-color:"#ece9ef";
-    padding: "20px"
-  }
-</style>
 
