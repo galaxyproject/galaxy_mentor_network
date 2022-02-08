@@ -91,16 +91,42 @@ div.post {
     margin-bottom: 1em;
 }
 
-footer {
+// Main container
+.maincontainer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+// Footer
+.footer {
     font-size: 85%;
+    background-color:$navbar-inverse-bg;
+    color:$white;
+
+    .footer-container {
+        padding-top: 20px;
+        padding-bottom: 10px;
+
+        a
+        {
+            &:link,
+            &:visited,
+            &:hover,
+            &.toggle {
+                color: $brand-masthead-text-hover;
+            }
+        }
+    }
 }
 
 // Masthead
 
 // ==== Masthead ====
-#masthead {
+.masthead {
     background-color: $brand-masthead;
+    .navbar-brand,
     .navbar-nav {
+        color: $white;
         > li {
             &.active {
                 background: darken($brand-masthead, 10%);
@@ -117,6 +143,13 @@ footer {
                     color: $brand-masthead-text-hover;
                 }
             }
+        }
+        &:hover,
+        &.toggle {
+            color: $brand-masthead-text-hover;
+        }
+        img{
+            padding-right: 10px;
         }
     }
 }
