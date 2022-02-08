@@ -28,24 +28,20 @@
         <main id="maincontainer" class="container">
             <slot />
         </main>
-        <footer class="static-footer">
-          <b-container>
-             <h3>Help and Support</h3>
+        <footer style= "background-color:#ece9ef;">
+          <b-container style="padding:20px">
+             <h3>Get in touch</h3>
              <!--Grid row-->
              <b-row>
                   <!--Grid column-->
                   <b-col lg="6" md="6" sm="12">
-                 <h6> Project Coordinators</h6>
-
-                     <li><a href="https://matrix.to/#/@beatrizserrano:matrix.org">Beatriz Serrano-Solano</a></li>
-                     <li><a href="https://matrix.to/#/@bebatut:matrix.org">Berenice Batut</a></li>
-                     <li><a href="https:matrix.to/#/@assuntad23:matrix.org">Assunta DeSanto</a></li>
-
-                 <h6> Contact Us</h6>
+                 
                  <p>
-                     <i class="fas fa-envelop"></i><a href="mailto:galaxy.mentoring@gmail.com">galaxy.mentoring@gmail.com</a>
+                     <span class="fab fa-gitter"></span>Discuss with us on <a href="#">Matrix</a>
                      <br>
-                     <i class="fab fa-github"></i><a href="https://github.com/bebatut/galaxy_mentor_network">Galaxy_Mentor_Network</a>
+                     <span class="fas fa-envelop"></span><a href="mailto:galaxy.mentoring@gmail.com">galaxy.mentoring@gmail.com</a>
+                     <br>
+                     <span class="fab fa-github"></span><a href="https://github.com/bebatut/galaxy_mentor_network">Galaxy_Mentor_Network</a>
                    </p>
                   </b-col>
 
@@ -54,6 +50,9 @@
                        <p>
                          The <a href="#">FAQ</a> section contains answers to most of the questions on your mind. Do you want to report a problem or suggest an improvement? We'll appreciate if you <a href="https://github.com/bebatut/galaxy_mentor_network/issues">open an issue</a> on our GitHub repository and we'll attend to it as quickly as possible.
                        </p>
+                        <p>
+                          This website content is licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY SA 4.0</a>
+                    </p>
                   </b-col>
                   <!--Grid column-->
               </b-row>
