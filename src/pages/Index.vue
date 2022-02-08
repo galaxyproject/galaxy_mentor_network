@@ -2,8 +2,6 @@
   <Layout>
 
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="~/favicon.png" width="135" />
-
     <h1>Welcome to the Galaxy Mentoring Network</h1>
 
     <p>Mentorship...for you!</p>
@@ -19,8 +17,3 @@ export default {
 }
 </script>
 
-<style>
-.home-links a {
-  margin-right: 1rem;
-}
-</style>
