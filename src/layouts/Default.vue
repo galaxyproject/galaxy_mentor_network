@@ -28,9 +28,40 @@
         <main id="maincontainer" class="container">
             <slot />
         </main>
-        <footer class="static-footer"/>
+        <footer class="footer">
+            <b-container class="footer-container">
+                <b-row>
+                    <b-col>
+                        <h3>Get in touch</h3>
+                        <p>
+                            <i class="fab fa-gitter"></i>
+                            Discuss with us on <a href="#">Matrix</a>
+                            <br>
+                            <i class="fab fa-envelope"></i>
+                            Email us at <a href="mailto:galaxy.mentoring@gmail.com">galaxy.mentoring@gmail.com</a>
+                            <br>
+                            <i class="fab fa-github"></i>
+                            Check our <a href="https://github.com/bebatut/galaxy_mentor_network">GitHub repository</a>
+                        </p>
+                    </b-col>
+                    <b-col>
+                        <p>The <a href="/faq/">FAQ</a> section contains answers to most of the questions on your mind.</p>
+
+                        <p>Do you want to report a problem or suggest an improvement? We'll appreciate if you <a href="https://github.com/bebatut/galaxy_mentor_network/issues">open an issue</a> on our GitHub repository and we'll attend to it as quickly as possible.</p>
+
+                        <p>This website content is licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY SA 4.0</a></p>
+                    </b-col>
+                </b-row>
+            </b-container>
+        </footer>
     </div>
 </template>
+
+<script>
+export default {
+  name: 'layout',
+}
+</script>
 
 <static-query>
 query {
