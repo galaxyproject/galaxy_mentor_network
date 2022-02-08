@@ -119,7 +119,7 @@ $state-success-border: theme-color-level("success", $alert-border-level);
 $body-bg: $white;
 $text-color: $gray-dark;
 
-$link-color: #303030;
+$link-color: $brand-primary;
 $link-hover-color: darken($link-color, 15%);
 
 // Fonts and sizes
