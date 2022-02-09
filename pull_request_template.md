@@ -10,9 +10,9 @@
 
 ## Have you tested locally?
 (please check all three to move your PR forward!)
-[ ] I have tested the changes locally and they appear as I desire them to.
-[ ] I have tested the links and they work correctly.
-[ ] I have checked that the images match my expectations.
+- [ ] I have tested the changes locally and they appear as I desire them to.
+- [ ] I have tested the links and they work correctly.
+- [ ] I have checked that the images match my expectations.
 
 
 ## How to test the changes? 
