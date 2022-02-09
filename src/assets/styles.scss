@@ -39,7 +39,6 @@ $carousel-indicator-active-bg: $navbar-inverse-bg;
 $carousel-control-width: 5%;
 
 @import "~bootstrap/scss/bootstrap.scss";
-@import '~bootstrap-vue/src/index.scss';
 
 //@import "~@fortawesome/fontawesome-free/scss/_variables.scss";
 $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
@@ -154,6 +153,16 @@ hr {
     margin: 0.6em 0em;
 }
 
+/* B-card styling */
+.b-card {
+    background-color: #e9ecef;
+}
+.b-row {
+    background-color: #ffffff;
+}
+.b-card-text {
+    color:$brand-primary;
+}
 /* Card overrides */
 
 div.card-deck {
@@ -212,17 +221,26 @@ card-img-top {
     font-weight: 600;
 }
 
-/*
-   Button overrides;
-   more space between buttons on multiple consecutive lines
+/* 
+   Button overrides; 
+   more space between buttons on multiple consecutive lines 
    overall line-height is unchanged.
 */
 
 .btn {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem 6.5rem;
+    background-color: $brand-primary;
+    color: #ffffff;
     margin-top: 0.075rem;
     margin-bottom: 0.075rem;
-    padding-top: 0.3rem;
-    padding-bottom: 0.3rem;
+    transition-duration: 0.4s;
+}
+.btn:hover {
+    background-color: #ffc107;
 }
 
 /* *******

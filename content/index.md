@@ -4,7 +4,7 @@ title: Galaxy Mentoring Network
 subtitle: Mentorship...for you!
 ---
 
-Do you need guidance on a project? Need help learning how to contribute to open source? Guidance in settling into the Galaxy ecosystem? More?
+An all in one program targeted to speed up your growth!
 
 ![Two persons side by side in front of a computer](assets/images/illustration.png)
 
