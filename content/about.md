@@ -17,7 +17,7 @@ Galaxy is a global community of researchers, trainers, students, bioinformaticia
 
 Galaxy is a sprawling ecosystem and a dispersed community. It is easy for newcomers to get overwhelmed by the many Galaxy resources and community communication channels. The Galaxy Mentor Network is established to connect newcomers with experienced community members to help prevent newcomers from getting lost.
 
-![The Galaxy Community at GCC2019](assets/images/gcc2019-grouppicture.jpg)*GCC2019 in Freiburg, Germany, photo by Bérénice Batut*
+![The Galaxy Community at GCC2019](src\images\gcc2019-grouppicture.jpg)*GCC2019 in Freiburg, Germany, photo by Bérénice Batut*
 
 
 ## Our Vision
