@@ -2,8 +2,8 @@
     <div class="layout">
         <header class="masthead">
             <b-navbar class="container justify-content-center" toggleable="lg">
-                <b-navbar-brand href="#" class="align-middle">
-                    <g-image src="~/images/logos/logo_wo_text.png" class="d-inline-block" width="50" alt="GMN Logo"/>
+                <b-navbar-brand href="/" class="align-middle">
+                    <g-image src="~/images/logos/logo_white_wo_text.png" class="d-inline-block" width="50" alt="GMN Logo"/>
                   {{ $static.metadata.siteName }}
                 </b-navbar-brand>
                 <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -25,7 +25,7 @@
                 </b-collapse>
             </b-navbar>
         </header>
-        <main id="maincontainer" class="container">
+        <main class="container maincontainer">
             <slot />
         </main>
         <footer class="footer">

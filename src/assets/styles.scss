@@ -27,7 +27,6 @@ $headings-small-color: inherit;
 $body-bg: white;
 $navbar-default-bg: rgb(255, 255, 255);
 $navbar-default-border: none;
-
 $navbar-inverse-bg: rgb(44, 49, 67);
 
 $grid-float-breakpoint: 1000px;
@@ -53,10 +52,6 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
 html {
     position: relative;
     min-height: 100%;
-}
-
-body {
-    margin-bottom: 60px;
 }
 
 .gitter-chat-embed,
@@ -91,16 +86,42 @@ div.post {
     margin-bottom: 1em;
 }
 
-footer {
+// Main container
+.maincontainer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+// Footer
+.footer {
     font-size: 85%;
+    background-color:$navbar-inverse-bg;
+    color:$white;
+
+    .footer-container {
+        padding-top: 20px;
+        padding-bottom: 10px;
+
+        a
+        {
+            &:link,
+            &:visited,
+            &:hover,
+            &.toggle {
+                color: $brand-masthead-text-hover;
+            }
+        }
+    }
 }
 
 // Masthead
 
 // ==== Masthead ====
-#masthead {
+.masthead {
     background-color: $brand-masthead;
+    .navbar-brand,
     .navbar-nav {
+        color: $white;
         > li {
             &.active {
                 background: darken($brand-masthead, 10%);
@@ -117,6 +138,13 @@ footer {
                     color: $brand-masthead-text-hover;
                 }
             }
+        }
+        &:hover,
+        &.toggle {
+            color: $brand-masthead-text-hover;
+        }
+        img{
+            padding-right: 10px;
         }
     }
 }
