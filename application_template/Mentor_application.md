@@ -2,7 +2,7 @@
 
 Hello! Thank you for your interest in being a part of Galaxy Mentoring Network!
 
-**Kindly download this template so that you can have a draft before you tranfer your responses to the form.**
+**Kindly copy the content of this template and add paste it in a text editor so that you can have a draft before you tranfer your responses to the form.**
 
 # Section 1: Personal Information
 
@@ -17,6 +17,8 @@ The information you entered in this section will be added to your profile on our
 7.  Country
 8.  Affiliations
 9.  Area of expertise
+
+# Section 2:  Mentorship Program Information
 
 **We are excited to meet you!** Please tell us about yourself and why you are interested in participating in the Galaxy Mentorship Program. This will help us know how best we can support you throughout the mentoring program.
 
