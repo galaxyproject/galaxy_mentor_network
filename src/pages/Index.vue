@@ -66,7 +66,7 @@
            <h3>About Galaxy Mentor Network Program</h3>
            <p>Galaxy Mentor Network (GMN) program is an initiative by the Galaxy Community to build her members in open source projects.</p> 
             <p>The GMN program is for everyone who needs guidance in an open source project, anyone who needs help learning how to contribute to open source projects, guidance in navigating and settling into the Galaxy ecosystem.</p>
-            <a href="/about/">Learn More</a><span class="fas fa-arrow-circle-right"></span>           
+            <span class="fas fa-arrow-circle-right"></span>  <a href="/about/">Learn More</a>          
          </b-col>
        </b-row>
      </b-container>
