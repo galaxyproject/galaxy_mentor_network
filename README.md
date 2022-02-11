@@ -49,9 +49,15 @@ As stated in [this issue](https://github.com/vercel/next.js/issues/30078#issueco
 $ export NODE_OPTIONS=--openssl-legacy-provider
 ```
 
-## Creating a static page
+## Creating a static page in Markdown
 
 1. Create a markdown file in `content` folder
+
+
+    To add an image:
+    1. Add the image to the `content/images` folder
+    2. Import it in the Mardown with `![Alternative text](./images/<filename>)` ([Gridsome documentation](https://gridsome.org/docs/images/#usage-in-markdown))
+
 2. Copy on the top of the file the following:
 
     ```
@@ -101,3 +107,35 @@ $ export NODE_OPTIONS=--openssl-legacy-provider
     - `<id>` by the filename
     - `<Short title>` by a short title for the page
 
+## Creating a static page in Vue
+
+1. Create a `<Name>.vue` file in `src/pages/`
+2. Fill your file following the structure below:
+
+    ```
+    <template>
+        <Layout>
+
+            <h1>Title</h1>
+
+            <!-- Add content using HTML and Bootstrap-Vue components (except the ones including images)
+
+            Bootstrap-Vue doc: https://bootstrap-vue.org/docs/components/
+
+            ---!>
+
+        </Layout>
+    </template>
+
+    <script>
+    export default {
+    metaInfo: {
+        title: 'Galaxy Mentoring Network'
+    }
+    }
+    </script>
+    ```
+
+3. To add an image:
+    1. Add the images to `src/images` folder
+    2. Import it in the Vue file using `<g-image src="~/images/<filename>" alt="Alternative text"/> ([Gridsome documentation](https://gridsome.org/docs/images/))
