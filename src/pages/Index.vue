@@ -30,7 +30,7 @@
            border-radius="10px"
            >
             <b-card-text>
-               GMN is birthed from the Galaxy Community and has her at the center of affairs.
+               Birthed from the Galaxy Community, with it at the center.
              </b-card-text>
           </b-card>
           <b-card class="index-card"
