@@ -184,14 +184,6 @@ hr {
 
 /* Index.vue page B-card styling */
 
-.index2-row {
-    background-color: $gray-lighter;
-    padding-top: 1.0rem;
-    padding-bottom: 1.0rem;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    
-}
 
 
 .index-container {
@@ -211,6 +203,15 @@ hr {
 .index-card-text {
     color:$brand-primary;
 }
+.index-row2 {
+    background-color: $gray-lighter;
+    padding-top: 1.0rem;
+    padding-bottom: 1.0rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    
+}
+
 
 }
 /* Card overrides */
