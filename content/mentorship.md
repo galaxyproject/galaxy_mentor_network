@@ -28,8 +28,15 @@ Highlights of this mentorship program include:
 - Relationship between GMentor and GMentee(s)
 - Challenges
 
+## Participants' Training 
+We encourage all participants to watch this video on open source mentorship.
+<iframe width="100%" height="314" src="https://www.youtube.com/embed/6W5najMfcy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video credit: MongoDB
 
-There are three major roles in this mentorship program. They are:
+More information to guide you can be found in this [resource](https://www.mentorship.guide/)
+
+## Participants' guide
+There are three major participants in this mentorship program. They are:
 
 - Mentees
 - Mentors
