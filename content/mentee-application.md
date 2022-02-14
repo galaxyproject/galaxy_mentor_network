@@ -21,31 +21,31 @@ The information you entered in this section will be added to your profile on our
 6. Pronouns
 7. Affiliations
 8. Age (in ranges:) ***Choose one option***
-    20-30
-    30-40
-    40-50
-    50 - 60
-    60-70
-    70+
-    Prefer not to say
+    - 20-30
+    - 30-40
+    - 40-50
+    - 50 - 60
+    - 60-70
+    - 70+
+    - Prefer not to say
 
 # Section 2: Background Questions
 
 This is to know a bit about how about you and how best we can support during the mentoring program.
 
 9.  Educational Level ***Choose one option***
-    High School
-    Undergraduate
-    Postprogarduate
-    Postdoctoral
-    Engineer
-    PI
-    Other
+    - High School
+    - Undergraduate
+    - Postprogarduate
+    - Postdoctoral
+    - Engineer
+    - PI
+    - Other
 10. Current Occupation ***Choose one option***
-    Employed
-    Self-employed
-    Freelancing
-    Student
+    - Employed
+    - Self-employed
+    - Freelancing
+    - Student
 11. What do you do (occupation)?
 12. School/Organization
 13. Field of expertise
@@ -59,25 +59,25 @@ This is to know a bit about how about you and how best we can support during the
 15. Why do you want to be a mentee? What do you hope to achieve from it?
 16. What do you expect from your mentor?
 17. Do you have previous mentoring experience?
-    Yes
-    No
+    - Yes
+    - No
 18. If yes, explain
 19. What spoken language do you prefer for your mentoring calls?
 20. How often would you be prepared to have contact with your mentor? ***Choose one option***
-    Once a week
-    Biweekly
-    Once a month
+    - Once a week
+    - Biweekly
+    - Once a month
 21. When do you join Galaxy? Choose one option
-    Less than a month
-    Three - six months
-    Six - twelve months
-    A year and half
-    Over two years
+    - Less than a month
+    - Three - six months
+    - Six - twelve months
+    - A year and half
+    - Over two years
 22. Where did you hear about the GMN? Choose one option
-    Help Forum
-    Github
-    GTN
-    Matrix Channels
-    Galaxy Homepage
-    Starter Kits
-    Others
+    - Help Forum
+    - Github
+    - GTN
+    - Matrix Channels
+    - Galaxy Homepage
+    - Starter Kits
+    - Others

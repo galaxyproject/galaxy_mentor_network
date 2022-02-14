@@ -31,8 +31,8 @@ The information you entered in this section will be added to your profile on our
 11. Why do you want to be a GMN Mentor?
 12. What are some challenges you may face as a mentor?
 13. Are you prepared (and have capacity) to commit a minimum of 30mins biweekly to this 2 month programme?
-    Yes
-    No
+    - Yes
+    - No
 14. How will you demonstrate your commitment to support your mentee in achieving his/her goals?
 15. For how long have you been part of the Galaxy community?
 16. Please describe your engagement in the Galaxy community. For example:- the working group you belong to or your contributions
@@ -40,16 +40,17 @@ The information you entered in this section will be added to your profile on our
 18. What do you hope to gain by being on the GMN mentorship programme?
 19. What are your preferred spoken languages for the mentoring calls?
 20. Have you mentored a mentee before – formally or informally?
-    Yes (formally)
-    Yes (informally)
-    No
+    - Yes (formally)
+    - Yes (informally)
+    - No
 21. Social Media Handles. E.g LinkedIn, Twitter, Facebook, Instagram
 22. Where did you hear about the GMN?
-    Help Forum
-    Github
-    GTN
-    Matrix Channels
-    Galaxy Homepage
-    Others
+    - Help Forum
+    - Github
+    - GTN
+    - Matrix Channels
+    - Galaxy Homepage
+    - Starter Kits
+    - Others
 
 
