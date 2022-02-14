@@ -32,7 +32,7 @@ Highlights of this mentorship program include:
 
 We encourage all participants to watch this video on open source mentorship.
 
-<iframe width="100%" height="314" src="https://www.youtube.com/embed/6W5najMfcy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/6W5najMfcy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Video credit: MongoDB
 
 More information to guide you can be found in this [resource](https://www.mentorship.guide/)
