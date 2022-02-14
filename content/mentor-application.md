@@ -1,3 +1,8 @@
+---
+id: mentor-application
+title: Mentor Application Template
+---
+
 # Our Mentee Application Template
 
 Hello! Thank you for your interest in being a part of Galaxy Mentoring Network!

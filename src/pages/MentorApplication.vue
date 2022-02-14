@@ -7,7 +7,7 @@
 
 <page-query>
 query {
-    main: insert (path: "/content/mentee_application/") {
+    main: insert (path: "/content/mentor-application/") {
         id
         title
         content
@@ -21,7 +21,7 @@ query {
 <script>
 export default {
     metaInfo: {
-        title: "GMN - Mentee Application Template"
+        title: "GMN - Mentor Application Template"
     }
 }
 </script>
