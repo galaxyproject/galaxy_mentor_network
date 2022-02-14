@@ -49,7 +49,7 @@ As stated in [this issue](https://github.com/vercel/next.js/issues/30078#issueco
 $ export NODE_OPTIONS=--openssl-legacy-provider
 ```
 
-## Creating a static page in Markdown
+## Creating a static page written in Markdown
 
 1. Create a markdown file in `content` folder
 
