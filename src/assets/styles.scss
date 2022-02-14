@@ -189,29 +189,34 @@ hr {
 .index-container {
     margin-top: 0rem;
     margin-bottom: 2.5rem;
-.index-card {
-    background-color: $gray-lighter;
-}
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+
 .index-row {
-    background-color: white;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    border-radius: 0.3rem;
-}
-.index-card-text {
-    color:$brand-primary;
-}
-.index-row2 {
-    background-color: $gray-lighter;
+    margin-top: 1.0rem;
+    margin-bottom: 1.0rem;
+    margin-left: 1.0rem;
+    margin-right: 1.0rem;
     padding-top: 1.0rem;
     padding-bottom: 1.0rem;
+}
+.index-column {
+    background-color: $gray-lighter;
+    margin-left: 1.0rem;
+    margin-right: 1.0rem;
+    text-align: center;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    
 }
 
+.index-image2 {
+    padding-top: 1.5rem;
+    border-radius: 30%;
+}
+
+.index-image {
+    padding-top: 1.5rem;
+}
 
 }
 /* Card overrides */
@@ -286,7 +291,7 @@ card-img-top {
     padding: 1.0rem 6.5rem;
     background-color: $brand-primary;
     color: #ffffff;
-    margin-top: 0.075rem;
+    margin-top: 5.0rem;
     margin-bottom: 0.075rem;
     transition-duration: 0.4s;
 }
