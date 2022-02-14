@@ -56,7 +56,7 @@ $ export NODE_OPTIONS=--openssl-legacy-provider
 
     To add an image:
     1. Add the image to the `content/images` folder
-    2. Import it in the Mardown with `![Alternative text](./images/<filename>)` ([Gridsome documentation](https://gridsome.org/docs/images/#usage-in-markdown))
+    2. Import it in the Markdown with `![Alternative text](./images/<filename>)` ([Gridsome documentation](https://gridsome.org/docs/images/#usage-in-markdown))
 
 2. Copy on the top of the file the following:
 
