@@ -1,6 +1,6 @@
 ---
 id: mentorship
-title: GMN Mentorship Guidelines
+title: Mentorship Guidelines
 ---
 
 Welcome to the Galaxy Community Mentorship Program designed to help community members who may be bioinformaticians, data analysts, students, programmers, etc., become more proficient in the use of Galaxy tools and integration into the Galaxy Community.
