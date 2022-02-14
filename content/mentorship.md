@@ -38,6 +38,7 @@ Video credit: MongoDB
 More information to guide you can be found in this [resource](https://www.mentorship.guide/)
 
 ## Participants' guide
+
 There are three major participants in this mentorship program. They are:
 
 - Mentees
