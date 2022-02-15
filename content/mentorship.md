@@ -1,5 +1,7 @@
-
-# Galaxy Mentorship Network Guidelines
+---
+id: mentorship
+title: Mentorship Guidelines
+---
 
 Welcome to the Galaxy Community Mentorship Program designed to help community members who may be bioinformaticians, data analysts, students, programmers, etc., become more proficient in the use of Galaxy tools and integration into the Galaxy Community.
 
@@ -26,8 +28,18 @@ Highlights of this mentorship program include:
 - Relationship between GMentor and GMentee(s)
 - Challenges
 
+## Participants' Training 
 
-There are three major roles in this mentorship program. They are:
+We encourage all participants to watch this video on open source mentorship.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/6W5najMfcy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video credit: MongoDB
+
+More information to guide you can be found in this [resource](https://www.mentorship.guide/)
+
+## Participants' guide
+
+There are three major participants in this mentorship program. They are:
 
 - Mentees
 - Mentors

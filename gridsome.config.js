@@ -28,10 +28,9 @@ module.exports = {
   },
   transformers: {
     remark: {
-      autolinkClassName: 'icon icon-link heading-anchor',
-      externalLinksTarget: '_blank',
-      externalLinksRel: ["nofollow", "noopener", "noreferrer"],
-      anchorClassName: 'icon icon-link',
-    }
+      config: {
+        footnotes: true
+      }
+    },
   },
 }
