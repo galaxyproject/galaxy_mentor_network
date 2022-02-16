@@ -33,7 +33,7 @@
 
       <b-row class="index-row">
         <b-col>
-          <g-image src="~/images/GMN text poster.jpg" alt="image showing words related to mentorship" class="index-image"/>
+          <g-image src="~/images/GMN_text_poster.jpg" alt="image showing words related to mentorship" class="index-image"/>
         </b-col>
         <b-col>
           <h3>About Galaxy Mentor Network Program</h3>
@@ -49,12 +49,14 @@
           <p>This 8-week mentorship has been designed to ensure that our GMentors and GMentees have the flexibility to learn and grow together while they work towards their intended goals and expectations.</p>
         </b-col>
         <b-col>
-          <g-image src="~/images/Program timeline.png" alt="Image showing program highlights" class="index-image"/>
+          <g-image src="~/images/Program_timeline.svg" alt="Image showing program highlights" class="index-image"/>
         </b-col>
       </b-row>
 
+
+      <!-- Testimonial carousel section. Trying to create three-cards slider containing image, and testimony-->
       <!--Caroussel doc: https://bootstrap-vue.org/docs/components/carousel -->
-      <b-row class="index-row">
+     <!-- <b-row class="index-row">
         <b-carousel
           id="carousel-1"
           v-model="slide"
@@ -67,24 +69,24 @@
           style="text-shadow: 1px 1px 2px #333;"
           @sliding-start="onSlideStart"
           @sliding-end="onSlideEnd"
-        >
-          <!-- Text slides with image -->
+        >-->
+          <!-- Text slides with image 
           <b-carousel-slide
             caption="First slide"
             text="Nulla vitae elit libero, a pharetra augue mollis interdum."
             img-src="https://picsum.photos/1024/480/?image=52"
-          ></b-carousel-slide>
+          ></b-carousel-slide>-->
 
-          <!-- Slides with custom text -->
+          <!-- Slides with custom text 
           <b-carousel-slide img-src="https://picsum.photos/1024/480/?image=54">
             <h1>Hello world!</h1>
-          </b-carousel-slide>
+          </b-carousel-slide>-->
 
-          <!-- Slides with image only -->
-          <b-carousel-slide img-src="https://picsum.photos/1024/480/?image=58"></b-carousel-slide>
+          <!-- Slides with image only 
+          <b-carousel-slide img-src="https://picsum.photos/1024/480/?image=58"></b-carousel-slide>-->
 
           <!-- Slides with img slot -->
-          <!-- Note the classes .d-block and .img-fluid to prevent browser default image alignment -->
+          <!-- Note the classes .d-block and .img-fluid to prevent browser default image alignment 
           <b-carousel-slide>
             <template #img>
               <img
@@ -95,9 +97,9 @@
                 alt="image slot"
               >
             </template>
-          </b-carousel-slide>
+          </b-carousel-slide>-->
 
-          <!-- Slide with blank fluid image to maintain slide aspect ratio -->
+          <!-- Slide with blank fluid image to maintain slide aspect ratio
           <b-carousel-slide caption="Blank Image" img-blank img-alt="Blank image">
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eros felis, tincidunt
@@ -105,7 +107,7 @@
             </p>
           </b-carousel-slide>
         </b-carousel>
-      </b-row>
+      </b-row> -->
     </b-container>
   </Layout>
 </template>
