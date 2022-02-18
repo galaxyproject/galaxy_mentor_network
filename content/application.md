@@ -43,7 +43,7 @@ As soon as a match occurs, the network manager will send mails to the mentee(s) 
 1.  Check the application template:
     - [Mentee Application Template](/mentee-application/)
     - [Mentor Application Template](/mentor-application/)
-2.  Click on the application link to fill the form.
+2.  Click on the [application link](https://forms.gle/nS5v8FYF7EpHwhKJ9)  to fill the form.
 3.  Answer all questions (Tip: be yourself, we want to know you and what you want to achieve with this mentorship).
 4.  Review your answers and click submit.
 
