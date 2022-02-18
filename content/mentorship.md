@@ -143,7 +143,7 @@ Here's what you need to kick off:
 
 *Voila! You're set!*
 
-See our amazing GMentors and Network Managers [here](#) 
+See our amazing GMentors and Network Managers [here](/network/) 
 
 
 ## End of Program

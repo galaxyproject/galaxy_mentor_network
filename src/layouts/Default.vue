@@ -16,9 +16,9 @@
                         </b-nav-item-dropdown>
                         <b-nav-item href="/faq/">FAQ</b-nav-item>
                         <b-nav-item-dropdown text="Network" right>
-                            <b-dropdown-item href="#">Gmentees</b-dropdown-item>
-                            <b-dropdown-item href="#">Gmentors</b-dropdown-item>
-                            <b-dropdown-item href="#">Network Managers</b-dropdown-item>
+                            <b-dropdown-item href="/network/">Gmentees</b-dropdown-item>
+                            <b-dropdown-item href="/network/">Gmentors</b-dropdown-item>
+                            <b-dropdown-item href="/network/">Network Managers</b-dropdown-item>
                         </b-nav-item-dropdown>
                         <b-nav-item href="/blog/">Blog</b-nav-item>
                     </b-navbar-nav>

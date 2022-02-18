@@ -2,15 +2,46 @@
 id: faq
 title: "Frequently Asked Questions (FAQs)"
 ---
+**Table of Content**
+<!-- TOC -->
 
-Contents
+- [Galaxy](#galaxy)
+    - [What is the Galaxy?](#what-is-the-galaxy)
+    - [Why did Galaxy create the Galaxy Mentor Network GMN?](#why-did-galaxy-create-the-galaxy-mentor-network-gmn)
+- [The Galaxy Mentor Network program](#the-galaxy-mentor-network-program)
+    - [What should I know about the GMN programme?](#what-should-i-know-about-the-gmn-programme)
+    - [How to join the program?](#how-to-join-the-program)
+    - [Can you tell me more about the Gmentors-Gmentees-Pairing MMP Process?](#can-you-tell-me-more-about-the-gmentors-gmentees-pairing-mmp-process)
+    - [What happens at the end of the two months of Gmentoring? Can I continue my Gmentorship relationship?](#what-happens-at-the-end-of-the-two-months-of-gmentoring-can-i-continue-my-gmentorship-relationship)
+    - [What happens if I need to leave the programme before it is concluded?](#what-happens-if-i-need-to-leave-the-programme-before-it-is-concluded)
+- [Gmentees](#gmentees)
+    - [What are the criteria to join the program as a Gmentee?](#what-are-the-criteria-to-join-the-program-as-a-gmentee)
+    - [How can I become a Gmentee?](#how-can-i-become-a-gmentee)
+    - [As a Gmentee how much time do I need to dedicate?](#as-a-gmentee-how-much-time-do-i-need-to-dedicate)
+    - [How do I meet my Gmentor?](#how-do-i-meet-my-gmentor)
+    - [What are my responsibilities as a Gmentee?](#what-are-my-responsibilities-as-a-gmentee)
+    - [Can I be Gmentored through the program more than once?](#can-i-be-gmentored-through-the-program-more-than-once)
+    - [As a Gmentee what happens after I conclude the Gmentoring programme?](#as-a-gmentee-what-happens-after-i-conclude-the-gmentoring-programme)
+    - [If my application is not successful can I apply for a second time?](#if-my-application-is-not-successful-can-i-apply-for-a-second-time)
+- [Gmentors](#gmentors)
+    - [How can I become a Gmentor?](#how-can-i-become-a-gmentor)
+    - [As a Gmentor, how much time do I need to dedicate?](#as-a-gmentor-how-much-time-do-i-need-to-dedicate)
+    - [What are my roles and responsibilities as a Gmentor?](#what-are-my-roles-and-responsibilities-as-a-gmentor)
+    - [What’s in it for me as a Gmentor?](#whats-in-it-for-me-as-a-gmentor)
+    - [How do I meet my Gmentee?](#how-do-i-meet-my-gmentee)
+    - [How can I Gmentor again?](#how-can-i-gmentor-again)
+    - [What kind of support will I get with Gmentoring?](#what-kind-of-support-will-i-get-with-gmentoring)
+    - [How will I know if I'm doing a good job?](#how-will-i-know-if-im-doing-a-good-job)
+
+<!-- /TOC -->
+<!---Contents
 
 - [Galaxy](#Galaxy)
 - [The Galaxy Mentor Network Program](#GMN)
 - [The Gmentees](#Gmentees)
-- [The Gmentors](#Gmentors)
+- [The Gmentors](#Gmentors)--->
 
-More FAQs will be added to this page as questions arise.
+***More FAQs will be added to this page as questions arise.***
 
 ## Galaxy
 
