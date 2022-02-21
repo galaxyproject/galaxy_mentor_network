@@ -35,7 +35,7 @@
                         <h3>Get in touch</h3>
                         <p>
                             <i class="fab fa-gitter"></i>
-                            Discuss with us on <a href="https://matrix.to/#/#gmn:matrix.org">Matrix</a>
+                            Discuss with us on <a href="https://matrix.to/#/#gmn-lobby:matrix.org">Matrix</a>
                             <br>
                             <i class="fab fa-envelope"></i>
                             Email us at <a href="mailto:galaxy.mentoring@gmail.com">galaxy.mentoring@gmail.com</a>
