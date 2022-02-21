@@ -12,7 +12,7 @@ title: "Frequently Asked Questions (FAQs)"
     - [What should I know about the GMN programme?](#what-should-i-know-about-the-gmn-programme)
     - [How to join the program?](#how-to-join-the-program)
     - [Can you tell me more about the Gmentors-Gmentees-Pairing MMP Process?](#can-you-tell-me-more-about-the-gmentors-gmentees-pairing-mmp-process)
-    - [What happens at the end of the two months of Gmentoring? Can I continue my Gmentorship relationship?](#what-happens-at-the-end-of-the-two-months-of-gmentoring-can-i-continue-my-gmentorship-relationship)
+    - [What happens at the end of the two months of mentoring? Can I continue my mentorship relationship?](#what-happens-at-the-end-of-the-two-months-of-mentoring-can-i-continue-my-mentorship-relationship)
     - [What happens if I need to leave the programme before it is concluded?](#what-happens-if-i-need-to-leave-the-programme-before-it-is-concluded)
 - [Gmentees](#gmentees)
     - [What are the criteria to join the program as a Gmentee?](#what-are-the-criteria-to-join-the-program-as-a-gmentee)
@@ -21,7 +21,7 @@ title: "Frequently Asked Questions (FAQs)"
     - [How do I meet my Gmentor?](#how-do-i-meet-my-gmentor)
     - [What are my responsibilities as a Gmentee?](#what-are-my-responsibilities-as-a-gmentee)
     - [Can I be Gmentored through the program more than once?](#can-i-be-gmentored-through-the-program-more-than-once)
-    - [As a Gmentee what happens after I conclude the Gmentoring programme?](#as-a-gmentee-what-happens-after-i-conclude-the-gmentoring-programme)
+    - [As a Gmentee what happens after I conclude the mentoring programme?](#as-a-gmentee-what-happens-after-i-conclude-the-mentoring-programme)
     - [If my application is not successful can I apply for a second time?](#if-my-application-is-not-successful-can-i-apply-for-a-second-time)
 - [Gmentors](#gmentors)
     - [How can I become a Gmentor?](#how-can-i-become-a-gmentor)
@@ -30,7 +30,7 @@ title: "Frequently Asked Questions (FAQs)"
     - [What’s in it for me as a Gmentor?](#whats-in-it-for-me-as-a-gmentor)
     - [How do I meet my Gmentee?](#how-do-i-meet-my-gmentee)
     - [How can I Gmentor again?](#how-can-i-gmentor-again)
-    - [What kind of support will I get with Gmentoring?](#what-kind-of-support-will-i-get-with-gmentoring)
+    - [What kind of support will I get with mentoring?](#what-kind-of-support-will-i-get-with-mentoring)
     - [How will I know if I'm doing a good job?](#how-will-i-know-if-im-doing-a-good-job)
 
 <!-- /TOC -->
@@ -61,7 +61,7 @@ Galaxy is a sprawling ecosystem and a dispersed community. It is easy for newcom
 
 ### What should I know about the GMN programme?
 
-Designed for any Galaxy members (both new and existing), this two months Gmentoring programme will equip participants (Gmentees and Gmentors) with a broad set of practical skills to boost knowledge and thrive in the Galaxy community.
+Designed for any Galaxy members (both new and existing), this two months mentoring programme will equip participants (Gmentees and Gmentors) with a broad set of practical skills to boost knowledge and thrive in the Galaxy community.
 
 **Gmentees** can be any Galaxy member. During the course of the program, Gmentees are required to complete their individual or team projects and share them with their Gmentor.
 
@@ -71,7 +71,7 @@ Gmentees must be willing to accept constructive feedback from their Gmentors rel
 
 They serve as a resource and repository of information, connect with people and the community, assist in purposeful networking, and provide thought and guidance throughout the completion of the project.
 
-**Network Managers** are the programme coordinators. They help with pairing Gmentors with Gmentees, sending mail to both Gmentors and Gmentees to inform them about their acceptance into the program, monitoring the progress of the Gmentorship, collecting feedback, and ensuring Gmentor and Gmentee complete the program. They are also the mediator when either Gmentor or Gmentee has any challenges during the process.
+**Network Managers** are the programme coordinators. They help with pairing Gmentors with Gmentees, sending mail to both Gmentors and Gmentees to inform them about their acceptance into the program, monitoring the progress of the mentorship, collecting feedback, and ensuring Gmentor and Gmentee complete the program. They are also the mediator when either Gmentor or Gmentee has any challenges during the process.
 
 This Galaxy Gmentor Network Programme helps participants (network managers, Gmentors, Gmentees) to:
 - share their expertise and develop skills and knowledge vital to create, lead, and contribute to Galaxy projects.
@@ -88,7 +88,7 @@ This Galaxy Gmentor Network Programme helps participants (network managers, Gmen
 
 ### Can you tell me more about the Gmentors-Gmentees-Pairing (MMP) Process?
 
-Once a Gmentee submitted an application, it will be reviewed by the network manager and then shared with the pool of possible Gmentors. The Gmentors select their own Gmentees together with the network manager. The areas of Gmentorship are not limited to: Contributing to the community, Running data analysis, Instructing students, and Carrying out projects. This opportunity will help them over a period of two months to develop new skills and expertise and to be proficient and grow with the ecosystem.
+Once a Gmentee submitted an application, it will be reviewed by the network manager and then shared with the pool of possible Gmentors. The Gmentors select their own Gmentees together with the network manager. The areas of mentorship are not limited to: Contributing to the community, Running data analysis, Instructing students, and Carrying out projects. This opportunity will help them over a period of two months to develop new skills and expertise and to be proficient and grow with the ecosystem.
 
 There are 2 general rules:
 - Discussions and everything you will share with your Gmentor will remain between you (except in case of Code of Conduct violation)
@@ -96,9 +96,9 @@ There are 2 general rules:
 
 Each Gmentor/Gmentee is provided with a toolkit (slide deck, short video, and note-taking document) at the beginning of the programme. The programme is at hand to help throughout the process.
 
-### What happens at the end of the two months of Gmentoring? Can I continue my Gmentorship relationship?
+### What happens at the end of the two months of mentoring? Can I continue my mentorship relationship?
 
-Of course! Beyond the two months, Gmentor/Gmentee relationships continue based on the mutual interest of both parties. Officially, the program winds down after two months, but some of the best Gmentoring relationships continue well past the end of any formal, organizationally sanctioned timeframe.
+Of course! Beyond the two months, Gmentor/Gmentee relationships continue based on the mutual interest of both parties. Officially, the program winds down after two months, but some of the best mentoring relationships continue well past the end of any formal, organizationally sanctioned timeframe.
 
 ### What happens if I need to leave the programme before it is concluded?
 
@@ -114,13 +114,13 @@ For our programme we expect our candidates to manifest motivation, commitment an
 
 ### How can I become a Gmentee?
 
-You are expected to fill the [application](#) telling us what you would like to achieve through the Gmentoring process. A quick review will be done by the network manager before sending it to the pool of Gmentors. Then the selection will be made by Gmentors based on your needed/required skills and experience.
+You are expected to fill the [application](#) telling us what you would like to achieve through the mentoring process. A quick review will be done by the network manager before sending it to the pool of Gmentors. Then the selection will be made by Gmentors based on your needed/required skills and experience.
 
 Meanwhile, if no Gmentors selected you because they didn’t seem to be the best person for you, the network manager will encourage you to seek help by asking questions in the Help Forum and Matrix channels. You will be notified immediately you're matched with a Gmentor.
 
 ### As a Gmentee how much time do I need to dedicate?
 
-We provide a flexible Gmentoring programme, where you and your Gmentor can directly arrange how often you will be in touch. So, it is really up to you and your Gmentor, your availability of time and energy to make the most out of this experience. A minimum of 30 minutes every 2 weeks is required, we recommend that our participants dedicate a total of 2 to 3 hours to their communication on a monthly basis.
+We provide a flexible mentoring programme, where you and your Gmentor can directly arrange how often you will be in touch. So, it is really up to you and your Gmentor, your availability of time and energy to make the most out of this experience. A minimum of 30 minutes every 2 weeks is required, we recommend that our participants dedicate a total of 2 to 3 hours to their communication on a monthly basis.
 
 ### How do I meet my Gmentor?
 
@@ -130,17 +130,17 @@ If your application is successful, we will be in touch with you. We will allocat
 
 As a Gmentee, you are given the once-in-a-lifetime opportunity to meet an experienced community member who will provide you with valuable expertise and insights. You will benefit from your Gmentor as a role model and an independent sounding board, you will receive guidance, advice, feedback, and support based on your unique needs and help to prevent you from getting lost from the Galaxy numerous resources. Your Gmentors will help you connect with the Galaxy community and its members and subgroups.
 
-As a Gmentee, you are responsible for your own project and being an active participant in the Gmentoring programme. This includes making sure you keep in touch regularly with your Gmentor throughout the program. You are expected to act on advice and resources provided by your Gmentor.
+As a Gmentee, you are responsible for your own project and being an active participant in the mentoring programme. This includes making sure you keep in touch regularly with your Gmentor throughout the program. You are expected to act on advice and resources provided by your Gmentor.
 
-As a Gmentee you are expected to be fully engaged in the Gmentoring programme, committed to the opportunity and respectful of the Gmentor’s dedication and external responsibilities, responding and communicating in a timely and appropriate fashion. If you have any challenges during the process you should get in touch with the network manager immediately.
+As a Gmentee you are expected to be fully engaged in the mentoring programme, committed to the opportunity and respectful of the Gmentor’s dedication and external responsibilities, responding and communicating in a timely and appropriate fashion. If you have any challenges during the process you should get in touch with the network manager immediately.
 
 ### Can I be Gmentored through the program more than once?
 
 Well, you are welcome back again! But you should consider leaving space for other interested candidates. However, after you have completed the program as a Gmentee, we’d love to see you come back as a Gmentor, and share your experiences with another newcomer!
 
-### As a Gmentee what happens after I conclude the Gmentoring programme?
+### As a Gmentee what happens after I conclude the mentoring programme?
 
-Upon successful completion of the Gmentoring, you will have gained valuable insights into your project, new perspectives and new skills. Moreover, you will most probably have gained a lifelong friend!
+Upon successful completion of the mentoring, you will have gained valuable insights into your project, new perspectives and new skills. Moreover, you will most probably have gained a lifelong friend!
 
 You will receive a programme completion certificate and you will become part of the broader GMN community which will be a network of support to you.
 
@@ -177,20 +177,20 @@ We are committed to ensuring Gmentors benefit from this programme. Here are a fe
 
 ### How do I meet my Gmentee?
 
-The Network Manager will be in touch with you as soon as you choose a Gmentee. After this introductory communication, it is up to you to reach out to one another in order to arrange your first meeting and initiate the Gmentoring experience.
+The Network Manager will be in touch with you as soon as you choose a Gmentee. After this introductory communication, it is up to you to reach out to one another in order to arrange your first meeting and initiate the mentoring experience.
 
 ### How can I Gmentor again?
 
-If you could support another newcomer, it would be fantastic! Repeat Gmentors bring the added value of learning and experience from their previous Gmentorings. At the end of your Gmentoring programme, you will be contacted and asked if you are able to Gmentor again. Even if you are not able to do this straight away, you can let us know and we can get back in touch with you later by adding you to our mailing list.
+If you could support another newcomer, it would be fantastic! Repeat Gmentors bring the added value of learning and experience from their previous mentorings. At the end of your mentoring programme, you will be contacted and asked if you are able to Gmentor again. Even if you are not able to do this straight away, you can let us know and we can get back in touch with you later by adding you to our mailing list.
 
-### What kind of support will I get with Gmentoring?
+### What kind of support will I get with mentoring?
 
-Before you start Gmentoring someone, you will be provided with a Gmentor orientation slide deck to learn more about your role and responsibilities as a Gmentor.
+Before you start mentoring someone, you will be provided with a Gmentor orientation slide deck to learn more about your role and responsibilities as a Gmentor.
 
 Both you and your Gmentee will have access to online resources to guide you through your program. These tools offer tips for Gmentors about how to best guide their Gmentees. They also contain information for Gmentees to help them in completing their project.
 
-You and your Gmentee will also be supported by a network manager. The network managers will also organize community meetings for all Gmentors in the programme to discuss their difficulties, things to change, etc. Their role is to help you both throughout the entire Gmentoring programme and respond to your questions and concerns.
+You and your Gmentee will also be supported by a network manager. The network managers will also organize community meetings for all Gmentors in the programme to discuss their difficulties, things to change, etc. Their role is to help you both throughout the entire mentoring programme and respond to your questions and concerns.
 
 ### How will I know if I'm doing a good job?
 
-Open communication is the key to any good Gmentoring. Throughout the Gmentoring programme, you should be speaking to your Gmentee about whether or not you are fulfilling the joint goals that you both set out at the beginning. Your network manager will also ask you to provide feedback on your progress and experience throughout the Gmentoring programme. If you are helping your Gmentee make progress on their project, then your Gmentoring is successful.
+Open communication is the key to any good mentoring. Throughout the mentoring programme, you should be speaking to your Gmentee about whether or not you are fulfilling the joint goals that you both set out at the beginning. Your network manager will also ask you to provide feedback on your progress and experience throughout the mentoring programme. If you are helping your Gmentee make progress on their project, then your mentoring is successful.
