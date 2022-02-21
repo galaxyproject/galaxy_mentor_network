@@ -41,7 +41,7 @@
                             Email us at <a href="mailto:galaxy.mentoring@gmail.com">galaxy.mentoring@gmail.com</a>
                             <br>
                             <i class="fab fa-github"></i>
-                            Check our <a href="https://github.com/bebatut/galaxy_mentor_network">GitHub repository</a>
+                            Check our <a href="https://github.com/galaxyproject/galaxy_mentor_network">GitHub repository</a>
                         </p>
                     </b-col>
                     <b-col>
