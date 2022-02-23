@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Galaxy Mentoring Network',
+  siteName: 'Galaxy Mentor Network',
   siteDescription: 'Connecting Galaxy members (both new and existing) with Gmentors (Mentors within the Galaxy Community) in order to learn, improve proficiency and grow with Galaxy',
   plugins: [
     {

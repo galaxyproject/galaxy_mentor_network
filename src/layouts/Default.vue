@@ -35,13 +35,13 @@
                         <h3>Get in touch</h3>
                         <p>
                             <i class="fab fa-gitter"></i>
-                            Discuss with us on <a href="#">Matrix</a>
+                            Discuss with us on <a href="https://matrix.to/#/#gmn-lobby:matrix.org">Matrix</a>
                             <br>
                             <i class="fab fa-envelope"></i>
                             Email us at <a href="mailto:galaxy.mentoring@gmail.com">galaxy.mentoring@gmail.com</a>
                             <br>
                             <i class="fab fa-github"></i>
-                            Check our <a href="https://github.com/bebatut/galaxy_mentor_network">GitHub repository</a>
+                            Check our <a href="https://github.com/galaxyproject/galaxy_mentor_network">GitHub repository</a>
                         </p>
                     </b-col>
                     <b-col>
