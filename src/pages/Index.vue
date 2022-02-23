@@ -39,18 +39,14 @@
           <h3>About Galaxy Mentor Network Program</h3>
           <p>Galaxy Mentor Network (GMN) program is an initiative by the Galaxy Community to build her members in open source projects.</p>
           <p>The GMN program is for everyone who needs guidance in an open source project, anyone who needs help learning how to contribute to open source projects, guidance in navigating and settling into the Galaxy ecosystem.</p>
-          <p><span class="fas fa-arrow-circle-right"></span> <a href="/about/">Learn More</a></p>
+          <p><span class="fas fa-arrow-circle-right"></span>&nbsp;<a href="/about/">Learn More</a></p>
         </b-col>
       </b-row>
 
       <b-row class="index-row">
-        <b-col>
-          <h3>Program Highlights</h3>
-          <p>This 8-week mentorship has been designed to ensure that our GMentors and GMentees have the flexibility to learn and grow together while they work towards their intended goals and expectations.</p>
-        </b-col>
-        <b-col>
-          <g-image src="~/images/Program_timeline.svg" alt="Image showing program highlights" class="index-image"/>
-        </b-col>
+        <h3>Program Highlights</h3>
+        <p>This 8-week mentorship has been designed to ensure that our GMentors and GMentees have the flexibility to learn and grow together while they work towards their intended goals and expectations.</p>
+        <g-image src="~/images/Program_timeline.svg" alt="Image showing program highlights" class="index-image index-image-timeline"/>
       </b-row>
 
 
@@ -70,23 +66,23 @@
           @sliding-start="onSlideStart"
           @sliding-end="onSlideEnd"
         >-->
-          <!-- Text slides with image 
+          <!-- Text slides with image
           <b-carousel-slide
             caption="First slide"
             text="Nulla vitae elit libero, a pharetra augue mollis interdum."
             img-src="https://picsum.photos/1024/480/?image=52"
           ></b-carousel-slide>-->
 
-          <!-- Slides with custom text 
+          <!-- Slides with custom text
           <b-carousel-slide img-src="https://picsum.photos/1024/480/?image=54">
             <h1>Hello world!</h1>
           </b-carousel-slide>-->
 
-          <!-- Slides with image only 
+          <!-- Slides with image only
           <b-carousel-slide img-src="https://picsum.photos/1024/480/?image=58"></b-carousel-slide>-->
 
           <!-- Slides with img slot -->
-          <!-- Note the classes .d-block and .img-fluid to prevent browser default image alignment 
+          <!-- Note the classes .d-block and .img-fluid to prevent browser default image alignment
           <b-carousel-slide>
             <template #img>
               <img
