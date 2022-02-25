@@ -38,7 +38,7 @@
                             Discuss with us on <a href="https://matrix.to/#/#gmn-lobby:matrix.org">Matrix</a>
                             <br>
                             <i class="fab fa-envelope"></i>
-                            Email us at <a href="mailto:galaxy.mentoring@gmail.com">galaxy.mentoring@gmail.com</a>
+                            Email us at <a href="mailto:galaxy.mentorship@gmail.com">galaxy.mentorship@gmail.com</a>
                             <br>
                             <i class="fab fa-github"></i>
                             Check our <a href="https://github.com/galaxyproject/galaxy_mentor_network">GitHub repository</a>
