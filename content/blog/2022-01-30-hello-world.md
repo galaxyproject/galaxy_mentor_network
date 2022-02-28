@@ -7,7 +7,7 @@ summary: "A welcome blog post describing the mentorship progam"
 
 # Welcome!!
 
-On behalf of Galaxy Project, we welcome you to Galaxy Mentor Network.
+On behalf of Galaxy Project, we welcome you to **Galaxy Mentor Network**.
 
 Whoop whoop!
 
