@@ -72,8 +72,15 @@ This will be a 24h **online event**, spanning all time zones with our worldwide 
 
 ***We look forward to seeing you there!***
 
-You can also watch this presentation from our Outreachy (December 2021-March 2022 cohort) interns [Chinonye Mildred](https://github.com/Chinonyemildred) and [Rahmot Afolabi](https://github.com/rahmot) to see what to expect.
+## Need more information?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w5PbI0lJGZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <i class="fab fa-hand-point-right"></i>Visit the [GMN website](/)
+- <i class="fab fa-comments"></i> Reach us on Matrix ([public channel](https://matrix.to/#/#gmn-lobby:matrix.org) or privately [Bérénice](https://matrix.to/#/@bebatut:matrix.org) or [Assunta](https://matrix.to/#/@assuntad23:matrix.org))
+- <i class="fab fa-envelope"></i> You can sSend us an email to [galaxy.mentorship@gmail.com](mailto:galaxy.mentorship@gmail.com) or reach out to either Bérénice Batut or Assunta Desanto on Matrix.
+- <i class="fab fa-file-video"></i> Watch the [presentation](https://www.youtube.com/embed/w5PbI0lJGZc) from our Outreachy  interns (December 2021-March 2022 cohort) [Chinonye Mildred](https://github.com/Chinonyemildred)) and [Rahmot Afolabi ](https://github.com/rahmot)to see what to expect.
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/w5PbI0lJGZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+***On behalf of the GMN team, we welcome you to our mentoring program and look forward to seeing you at the launch event.***
 
 
