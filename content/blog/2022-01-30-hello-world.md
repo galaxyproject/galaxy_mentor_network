@@ -1,5 +1,5 @@
 ---
-id: "welcome-blog-post"
+id: "welcome-launch"
 date: "2022-02-26"
 title: "Welcome to Galaxy Mentor Network"
 summary: "A welcome blog post describing the mentorship progam"
