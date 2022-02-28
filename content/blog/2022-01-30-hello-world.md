@@ -19,27 +19,56 @@ Galaxy Mentor Network (GMN) is a community of mentors and mentees. The GMN is la
 This mentoring program will help members transition smoothly from one part of the community to another. It will also help members learn how to use the Galaxy tools and servers efficiently, create training material, or launch and support communities. The end goal of this project is to develop more experienced members and to speed up the growth process for new members who join the community.
 
 The project goes to show how people-centered the Galaxy community is. **Anyone (students, engineers, researchers, etc) will have the opportunity to be mentored by topic-based experts and mentors**.
+## For whom is the GMN program?
 
-This GMN project is a win-win for all participants: Mentors grow in experience, gain new leadership skills and sharpen their expertise, while members can learn about open source, how to create, materials, or even carry out their projects with expert supervision and guidance.
+The program goes to show how people-centered the Galaxy community is. **Everyone (students,  researchers, engineers, etc) will have the opportunity to mentor and/or to be mentored by topic-based experts.**
+
+The GMN program involves:
+- **Gmentees (Galaxy Mentees)**: Galaxy members who need support and guidance from the Galaxy community members.
+- **Gmentors (Galaxy Mentors)**: experienced Galaxy members who are driven by the spirit of “giving back” make their expertise and experience at Galaxy and beyond available to other Galaxy members to support them in contributing to Galaxy and transitioning from one part of the Galaxy community to another.
+
+## How does this benefit me?
+
+This GMN project is a **win-win for all participants**. Mentors grow in experience, gain new leadership skills and sharpen their expertise, while members can learn about open source, how to create materials, or even carry out their projects with expert supervision and guidance.
+
+The benefits of the GMN program include:
+- Mentees receive expert advice on their projects, goals, and the community.
+   - Shorter learning curve through the mentorship relationship.
+   - Enhancement of confidence to actively participate in the Galaxy community.
+- Members are empowered to acquire important social, organizational, and technical skills.
+- Mentors grow their expertise by guiding members of the community.
+   - An opportunity to share experience and knowledge.
+  - Learning and leadership opportunities
+
+## How do I apply?
+
+To apply as either a Gmentor or Gmentee, fill out this [form](https://forms.gle/nS5v8FYF7EpHwhKJ9) and also check out the [application guidelines](/application/).
+
+## When are you launching the program?
+
+We are also inviting you to our **official launch** of the Galaxy Mentor Network on the **3rd of March**.
+
+The event is spanning all time zones with our worldwide community, where we will answer any questions you have regarding the GMN program. 
 
 Join us for our exciting online launch event where we will be telling you everything you need to know about the **Galaxy Mentor Network** program and answer any questions you may have as regards the program.
 
-## Agenda:
+### What will be the agenda?
 
-- Initial Remarks by the Outreachy Mentors (Bérénice, Assunta, Beatriz, or Anne) about the Outreachy interns.
 - Introduction to the Galaxy Mentor Network by Outreachy interns (Chinonye and Rahmot).
 - GMN Website Demo.
 - Q & A with the audience.
 
-This will be a 24h event, spanning all time zones with our worldwide community. We'll start at **08:00 Central European time**, and end at **12:00 US Eastern time**.
+### How to join? 
 
-- **GMN Launch Call 1**: Middle East, Europe, Africa
-  - 08:00 Central European time. [See your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=EMEA+GTN+CoFest+Call&iso=20220217T10&p1=980&am=30).
-  - [Zoom](https://psu.zoom.us/j/95492229656?pwd=MUhxQU9maWtDVWRzOVpJNkoySVh2dz09)
+This will be a 24h **online event**, spanning all time zones with our worldwide community. We'll start at **08:00 Central European time**, and end at **12:00 US Eastern time**.
 
-- **GMN Launch Call 2**: Americas
-  - 12:00 US Eastern time. [See your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Americas+GTN+CoFest+Call&iso=20220217T11&p1=3705&am=30).
-  - [Zoom](https://psu.zoom.us/j/98259853922?pwd=eTNQR2ZUcjJSSmZDcXBXYzE1YjlPUT09)
+- **GMN Launch Call 1** - EMEA
+  - <i class="fab fa-calendar"></i> When: **March 3, 08:00 Central European time**. [See your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=GMN+Launch+Call+1+-+EMEA&iso=20220303T08&p1=980&am=30).
+  - <i class="fab fa-map"></i> Where: [**Zoom**](https://psu.zoom.us/j/95492229656?pwd=MUhxQU9maWtDVWRzOVpJNkoySVh2dz09)
+- **GMN Launch Call 2** - Americas
+  - <i class="fab fa-calendar"></i> When: **March 3, 12:00 US Eastern time**. [See your time](https://psu.zoom.us/j/95492229656?pwd=MUhxQU9maWtDVWRzOVpJNkoySVh2dz09).
+  - <i class="fab fa-map"></i> Where: [**Zoom**](https://psu.zoom.us/j/98259853922?pwd=eTNQR2ZUcjJSSmZDcXBXYzE1YjlPUT09)
+- On [**Matrix**](https://matrix.to/#/#gmn-lobby:matrix.org), the **whole day** and before or after
 
 ***We look forward to seeing you there!***
 
