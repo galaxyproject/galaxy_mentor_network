@@ -17,7 +17,7 @@ Galaxy Mentor Network (GMN) is a community of mentors and mentees. The GMN is la
 
 This mentoring program will help members transition smoothly from one part of the community to another. It will also help members learn how to use the Galaxy tools and servers efficiently, create training material, or launch and support communities. The end goal of this project is to develop more experienced members and to speed up the growth process for new members who join the community.
 
-The project goes to show how people-centered the Galaxy community is. Every member will have the opportunity to be mentored by topic-based experts and mentors. Professors and students carrying out their projects can work on their projects under the guidance of mentors.
+The project goes to show how people-centered the Galaxy community is. **Anyone (students, engineers, researchers, etc) will have the opportunity to be mentored by topic-based experts and mentors**.
 
 This GMN project is a win-win for all participants: Mentors grow in experience, gain new leadership skills and sharpen their expertise, while members can learn about open source, how to create, materials, or even carry out their projects with expert supervision and guidance.
 
