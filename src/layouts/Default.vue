@@ -37,7 +37,7 @@
                             <i class="fab fa-gitter"></i>
                             Discuss with us on <a href="https://matrix.to/#/#gmn-lobby:matrix.org">Matrix</a>
                             <br>
-                            <i class="fab fa-envelope"></i>
+                            <i class="fas fa-envelope"></i>
                             Email us at <a href="mailto:galaxy.mentorship@gmail.com">galaxy.mentorship@gmail.com</a>
                             <br>
                             <i class="fab fa-github"></i>
