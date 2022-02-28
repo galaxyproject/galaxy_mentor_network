@@ -11,7 +11,7 @@ On behalf of Galaxy Project, we welcome you to **Galaxy Mentor Network**.
 
 Whoop whoop!
 
-Galaxy Mentor Network (GMN) is a community of mentors and mentees. The GMN is launching a two-month mentoring program designed for Galaxy community members to come together as mentors and mentees to achieve a goal, share knowledge and expertise, ask questions, receive feedback, network, and most of all, get support from peers(mentors) without having to wait for days for a response from the community via the Help Forum or communication channels.
+Galaxy Mentor Network (GMN) is a community of mentors and mentees. The GMN is launching a **two-month mentoring program** designed for Galaxy community members to come together as mentors and mentees to achieve a goal, share knowledge and expertise, ask questions, receive feedback, network, and most of all, get support from peers (mentors).
 
 <!-- The image is not rendering: ![Image showing the program timeline](./images/Program_timeline.svg)-->
 
