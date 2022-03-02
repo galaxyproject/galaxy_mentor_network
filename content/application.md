@@ -19,7 +19,7 @@ The Galaxy Community Mentorship program is open to everyone who meets the follow
 
 - You are an active member of the community (for example, in the channels, contributing to the Galaxy GitHub repositories, events, e.t.c)
 - Willing to give detailed and timely reviews of the projects and contributions of your mentees.
-- You are willing to meet with the mentee on a biweekly 30 minutes call.
+- You are willing to meet with the mentee every 2 weeks for a 30 minutes call.
 - Mentors will be required to mentor for at least 8 weeks.
 - Mentors will be expected to recommend helpful projects if the mentee has no intended projects during application.
 
