@@ -57,6 +57,7 @@ Join us for our exciting online launch event where we will be telling you everyt
 - Introduction to the Galaxy Mentor Network by Outreachy interns (Chinonye and Rahmot).
 - GMN Website Demo.
 - Q & A with the audience.
+Check out this [**document**](https://docs.google.com/document/d/1UEM2CTHqsYvaI8voCNkZ6kjy-8iwrp7r-4iNaxEmts0/edit#) to have a detail overview of the agenda and we will also be using the document during the call.
 
 ### How to join? 
 
