@@ -65,7 +65,7 @@ This is to know a bit about how about you and how best we can support during the
 19. What spoken language do you prefer for your mentoring calls?
 20. How often would you be prepared to have contact with your mentor? ***Choose one option***
     - Once a week
-    - Biweekly
+    - Every 2 weeks
     - Once a month
 21. When do you join Galaxy? Choose one option
     - Less than a month

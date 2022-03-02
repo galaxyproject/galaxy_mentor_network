@@ -67,7 +67,7 @@ Designed for any Galaxy members (both new and existing), this two months mentori
 
 Gmentees must be willing to accept constructive feedback from their Gmentors related to their projects and goals and commit themselves to continuous growth and improvement in project skills and knowledge in order to develop new skills and expertise and to be proficient and grow with Galaxy.
 
-**Gmentors** are seasoned Galaxy community members who can commit to regular meetings for 2 months (recommended: at least 30 mins meetings biweekly). Gmentors help to ensure their Gmentee has a successful transition into the Galaxy community.
+**Gmentors** are seasoned Galaxy community members who can commit to regular meetings for 2 months (recommended: at least 30 mins meetings every 2 weeks). Gmentors help to ensure their Gmentee has a successful transition into the Galaxy community.
 
 They serve as a resource and repository of information, connect with people and the community, assist in purposeful networking, and provide thought and guidance throughout the completion of the project.
 
