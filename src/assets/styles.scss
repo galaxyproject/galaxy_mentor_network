@@ -118,29 +118,35 @@ div.post {
 
 // ==== Masthead ====
 .masthead {
-    background-color: $brand-masthead;
+    background-color: $brand-masthead !important;
+    .bg-dark {
+        background-color: $brand-masthead !important;
+    }
     .navbar-brand,
     .navbar-nav {
         color: $white;
         > li {
             &.active {
-                background: darken($brand-masthead, 10%);
+                //background: darken($brand-masthead, 10%);
+                color: $brand-masthead-text-hover;
             }
             .nav-link {
                 position: relative;
                 cursor: pointer;
                 text-decoration: none;
                 color: $brand-masthead-text;
-                &:hover {
-                    color: $brand-masthead-text-hover;
-                }
+                &.active,
+                &:hover,
+                &:active,
+                &:focus,
                 &.toggle {
                     color: $brand-masthead-text-hover;
                 }
             }
         }
         &:hover,
-        &.toggle {
+        &.toggle,
+        &.show {
             color: $brand-masthead-text-hover;
         }
         img{
@@ -203,10 +209,16 @@ hr {
         .index-image {
             width: 100%;
             min-width: 200px;
-            max-width: 400px;
+            //max-width: 400px;
             display: block;
             margin-left: auto;
             margin-right: auto;
+        }
+
+        .index-image-timeline {
+            width: 50%;
+            min-width: 400px;
+            max-width: 800px;
         }
 
         .index-small-image {
