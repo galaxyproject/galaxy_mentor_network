@@ -13,7 +13,7 @@ The Galaxy Community Mentorship program is open to everyone who meets the follow
 - You have an intended project or you are willing to take on one of the projects suggested to you by your mentor.
 - You are willing to take full responsibility for the completion of your project.
 - Mentees will be required to devote about 5 hours weekly to their projects.
-- Bi-weekly calls of about 30 minutes will be held between mentees and mentors.
+- Meeting calls of about 30 minutes will be held between mentees and mentors every two weeks.
 
 **Mentor:**
 
