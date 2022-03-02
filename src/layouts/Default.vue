@@ -21,6 +21,7 @@
                             <b-dropdown-item href="/network/">Network Managers</b-dropdown-item>
                         </b-nav-item-dropdown>
                         <b-nav-item href="/blog/">Blog</b-nav-item>
+                        <b-nav-item href="https://galaxyproject.org/community/coc/" target="_blank">Code of Conduct</b-nav-item>
                     </b-navbar-nav>
                 </b-collapse>
             </b-navbar>
