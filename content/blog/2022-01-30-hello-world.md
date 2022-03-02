@@ -66,7 +66,7 @@ This will be a 24h **online event**, spanning all time zones with our worldwide 
   - <i class="fas fa-calendar"></i> When: **March 3, 08:00 Central European time**. [See your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=GMN+Launch+Call+1+-+EMEA&iso=20220303T08&p1=980&am=30).
   - <i class="fas fa-map"></i> Where: [**Zoom**](https://psu.zoom.us/j/95492229656?pwd=MUhxQU9maWtDVWRzOVpJNkoySVh2dz09)
 - **GMN Launch Call 2** - Americas
-  - <i class="fas fa-calendar"></i> When: **March 3, 12:00 US Eastern time**. [See your time](https://psu.zoom.us/j/95492229656?pwd=MUhxQU9maWtDVWRzOVpJNkoySVh2dz09).
+  - <i class="fas fa-calendar"></i> When: **March 3, 12:00 US Eastern time**. [See your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=GMN+Launch+Call+2+-+Americas&iso=20220303T12&p1=97&am=30).
   - <i class="fas fa-map"></i> Where: [**Zoom**](https://psu.zoom.us/j/98259853922?pwd=eTNQR2ZUcjJSSmZDcXBXYzE1YjlPUT09)
 - On [**Matrix**](https://matrix.to/#/#gmn-lobby:matrix.org), the **whole day** and before or after
 
