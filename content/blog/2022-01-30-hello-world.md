@@ -58,6 +58,8 @@ Join us for our exciting online launch event where we will be telling you everyt
 - GMN Website Demo.
 - Q & A with the audience.
 
+Check out this [**document**](https://docs.google.com/document/d/1UEM2CTHqsYvaI8voCNkZ6kjy-8iwrp7r-4iNaxEmts0/edit#) to have a detail overview of the agenda and we will also be using the document during the call.
+
 ### How to join? 
 
 This will be a 24h **online event**, spanning all time zones with our worldwide community. We'll start at **08:00 Central European time**, and end at **12:00 US Eastern time**.
