@@ -48,7 +48,15 @@
         <p>This 8-week mentorship has been designed to ensure that our GMentors and GMentees have the flexibility to learn and grow together while they work towards their intended goals and expectations.</p>
         <g-image src="~/images/Program_timeline.svg" alt="Image showing program highlights" class="index-image index-image-timeline"/>
       </b-row>
-
+      <b-row class="index-row">
+        <b-col>
+         <h3>Find out more about GMN</h3>
+         <p><i class="fas fa-file-video"></i> Watch the presentation from our Outreachy interns (December 2021-March 2022 cohort) <a href="https://github.com/Chinonyemildred">Chinonye Mildred</a> and <a href="https://github.com/rahmot">Rahmot Afolabi</a> to know more about Galaxy Mentor Network.</p>
+        </b-col>
+        <b-col>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/w5PbI0lJGZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </b-col>
+      </b-row>
 
       <!-- Testimonial carousel section. Trying to create three-cards slider containing image, and testimony-->
       <!--Caroussel doc: https://bootstrap-vue.org/docs/components/carousel -->

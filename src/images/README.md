@@ -24,3 +24,21 @@ The program_timeline.svg was originally designed by [Chinonye Mildred](https://g
  ## Illustrations
 
 The illustrations used are downloaded from [unDraw](https://undraw.co/illustrations)
+
+## Schematic Rundown of the GMN mentoring program
+
+The schema.svg was originally designed by [Chinonye Mildred](https://github.com/Chinonyemildred) using Figma and then adapted by the team
+
+**Font**: [Ubuntu, via Freefontsdownload](https://freefontsdownload.net/find.php?q=ubuntu)
+
+**Colors**:
+ #343A40 and #CFBE27
+
+ ## Matching Process
+
+The match.svg was originally designed by [Chinonye Mildred](https://github.com/Chinonyemildred) using Figma and then adapted by the team
+
+**Font**: [Ubuntu, via Freefontsdownload](https://freefontsdownload.net/find.php?q=ubuntu)
+
+**Colors**:
+ #343A40 and #CFBE27

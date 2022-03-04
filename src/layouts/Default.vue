@@ -13,6 +13,7 @@
                         <b-nav-item-dropdown text="Guides" right>
                             <b-dropdown-item href="/application/">Application Guidelines</b-dropdown-item>
                             <b-dropdown-item href="/mentorship/">Mentorship Guidelines</b-dropdown-item>
+                            <b-dropdown-item href="/network-managers/">Network Managers Guide</b-dropdown-item>
                         </b-nav-item-dropdown>
                         <b-nav-item href="/faq/">FAQ</b-nav-item>
                         <b-nav-item-dropdown text="Network" right>
