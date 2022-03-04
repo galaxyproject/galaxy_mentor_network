@@ -7,6 +7,6 @@ assignees: Network Managers
 ---
 
 - [ ] Send acceptance email
-- [ ] Invite to the Gmnetor Matrix Channel
+- [ ] Invite to the Gmentor Matrix Channel
 - [ ] Add to mailing list
 - [ ] Add to the GMN website (network page)

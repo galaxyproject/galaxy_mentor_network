@@ -6,6 +6,6 @@ labels: to-do list, Gmentee selection
 assignees: Network Managers
 ---
 
-Notify them of newly accepted Gmnetees once in a month via:
+Notify them of newly accepted Gmentees once in a month via:
 - [ ] Matrix Channel
 - [ ] Email - Gmnetors mailing list

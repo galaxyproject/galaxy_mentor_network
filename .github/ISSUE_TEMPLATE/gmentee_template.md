@@ -9,6 +9,9 @@ assignees: Network Managers
 1. Application Review, Selection, and Matching
     - [ ] Send application confirmation email
     - [ ] Review application
+    - [ ] Notify Gmentors about the new application
+         - [ ] Matrix Channel
+         - [ ] Gmentors mailing list
     - [ ] Send acceptance and matching email (done after the Gmentors have selected their preferred mentees)
 2. Gmentee accepted and matched with a Gmentor
     - [ ] Invite to participants Matrix Channel
