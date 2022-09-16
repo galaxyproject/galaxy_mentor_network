@@ -49,21 +49,20 @@ def format_application(row, type, out_f):
     out_f.write("\n")
     out_f.write("---\n")
     out_f.write("\n")
-    if type == 'nm':
-        out_f.write("### Actions for Network Managers\n\n")
-        out_f.write("Please vote:\n")
-        out_f.write("- **Light Bulb (:bulb:)** for direct submission to the mentor channel (good application)\n")
-        out_f.write("- **Thumbs up (:+1:)** for submission to the mentor channel, asking if any mentor has a possible project for them (a bit vague application)\n")
-        out_f.write("- **Gear (:gear:)** for asking them to rework their application (vague application)\n")
-    elif type == "mentors":
-        out_f.write("### Actions for Mentors\n\n")
-        out_f.write("Interested in mentoring this person? Let us know using the reactions\n")
-        out_f.write("- **Light Bulb (:bulb:)** for the mentoring the project in its actual format\n")
-        out_f.write("- **Thumbs up (:+1:)** if this application is a big vague but you may have a project to mentor for this person\n")
-        out_f.write("- **Gear (:gear:)** for asking them to rework their application (vague application)\n")
-    out_f.write("\n")
-    out_f.write("---\n")
-    out_f.write("\n\n\n")
+    #if type == 'nm':
+    #    out_f.write("### Actions for Network Managers\n\n")
+    #    out_f.write("Please vote:\n")
+    #    out_f.write("- **Light Bulb (:bulb:)** for direct submission to the mentor channel (good application)\n")
+    #    out_f.write("- **Thumbs up (:+1:)** for submission to the mentor channel, asking if any mentor has a possible project for them (a bit vague application)\n")
+    #    out_f.write("- **Gear (:gear:)** for asking them to rework their application (vague application)\n")
+    #elif type == "mentors":
+    #    out_f.write("### Actions for Mentors\n\n")
+    #    out_f.write("Interested in mentoring this person? Let us know using the reactions\n")
+    #    out_f.write("- **Thumbs up (:+1:)** to mentor the project in its actual format\n")
+    #    out_f.write("- **OK hand (:ok_hand:)** if this application is a big vague but you may have an actual project that fits this person\n")
+    #out_f.write("\n")
+    #out_f.write("---\n")
+    #out_f.write("\n\n\n")
 
 
 def format_applications(df, out_dp):
@@ -82,7 +81,7 @@ def format_applications(df, out_dp):
                 if row['Status'] == 'Pending':
                     format_application(row, "nm", pending_f)
                 elif row['Status'] == 'Waiting for Gmentor':
-                    format_application(row, "mentors", pending_f)
+                    format_application(row, "mentors", waiting_f)
 
 
 if __name__ == '__main__':
