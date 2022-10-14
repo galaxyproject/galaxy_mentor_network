@@ -7,8 +7,9 @@ from pathlib import Path
 
 
 colname_text = {
-    'First Name': 'First Name',
-    'Last Name': 'Last Name',
+    'Timestamp': 'Application date',
+    #'First Name': 'First Name',
+    #'Last Name': 'Last Name',
     'Areas of expertise (You can include the ones not listed in the others section)': 'Areas of expertise',
     'Biography (Who are you? What do you want people to know about you?)': "Biography",
     'What style of mentoring do you prefer?': "What style of mentoring do you prefer?",
