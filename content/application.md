@@ -25,9 +25,18 @@ The Galaxy Community Mentorship program is open to everyone who meets the follow
 
 ## Matching Process
 
-When a mentee application is submitted, network managers and mentors are notified. GMentors are expected to review the mentees' applications so as to select a mentee(s) whose project, goals, and expectations match their experience, interests, or expertise.
+We try to **take into account** the reality that everybody (including the Network Managers) is **busy** and **nobody is working only on the Galaxy Mentor Network**.
 
-As soon as a match occurs, the network manager will send mails to the mentee(s) and mentor. This begins the mentorship program for the pair.
+So, instead of trying to scan and send applications on the fly, we would like to use a **timeframe of 2 months** (which also corresponds to the duration of the program).
+
+People can **apply whenever they want, like a rolling admission**. But the Network Manager will **only process** applications **every 2 months**. Our process will change as well. We will:
+* Format the application
+* Scan them, possibly rejecting the ones where the expectations are too large, not timely or could be done by following some training or are a pure research/data analysis project
+* Copy interesting applications into a Google document
+* Share the Google document with GMentors and **give them 2 weeks** to express their interest
+    * If a GMentor expresses interest, the Network Managers will connect them with their GMentee match
+    * If no one expresses interest within a 2 week time frame, we will contact potential GMentors and encourage the match
+
 
 ## Benefits
 
@@ -43,7 +52,7 @@ As soon as a match occurs, the network manager will send mails to the mentee(s) 
 1.  Check the application template:
     - [Mentee Application Template](/mentee-application/)
     - [Mentor Application Template](/mentor-application/)
-2.  Click on the [application link](https://forms.gle/nS5v8FYF7EpHwhKJ9)  to fill the form.
+2.  Click on the [application link](https://forms.gle/72NNGYnvr3o582nQ6)  to fill the form.
 3.  Answer all questions (Tip: be yourself, we want to know you and what you want to achieve with this mentorship).
 4.  Review your answers and click submit.
 
