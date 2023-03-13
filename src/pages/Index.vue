@@ -6,7 +6,7 @@
         <b-col align-self="center">
           <h1>Mentorship... for you!</h1>
           <p>An all in one program targeted to speed up your growth!</p>
-          <a href="https://forms.gle/482EoBYtJozWpYCf9" class="btn" role="button" target="_blank">Apply Now</a>
+          <a href="https://forms.gle/72NNGYnvr3o582nQ6" class="btn" role="button" target="_blank">Apply Now</a>
         </b-col>
         <b-col>
           <g-image src="~/images/illustration.png" alt="two people sitting in front of a computer" class="index-image"/>

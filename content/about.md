@@ -35,9 +35,8 @@ We define mentoring as information and knowledge sharing between Galaxy members 
 
 **The Program involves:**
 
-**Gmentees** (Galaxy Mentees): are any Galaxy member who need supports and guidance from the Galaxy community members.
-
-**Gmentors** (Galaxy Mentors): Experienced Galaxy Members, who are driven by the spirit of “giving back”, making their expertise and experience at Galaxy and beyond available to other Galaxy members to support them in contributing to Galaxy and transitioning from one part of the Galaxy community to another.
+- **Gmentees** (Galaxy Mentees): are any Galaxy member who need supports and guidance from the Galaxy community members.
+- **Gmentors** (Galaxy Mentors): Experienced Galaxy Members, who are driven by the spirit of “giving back”, making their expertise and experience at Galaxy and beyond available to other Galaxy members to support them in contributing to Galaxy and transitioning from one part of the Galaxy community to another.
 
 The Galaxy Mentor Network Program offers two mentorship alternatives:
 
