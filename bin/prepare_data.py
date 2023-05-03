@@ -29,9 +29,9 @@ def format_attribute(content, attribute):
     '''
     if content:
         if attribute:
-            return "**%s**: %s\n" % (attribute, content)
+            return "%s | %s\n" % (attribute, content)
         else:
-            return "%s\n" % content
+            return "| %s\n" % content
     else:
         return ""
 
@@ -40,30 +40,27 @@ def format_application(row, type, out_f):
     '''
 
     '''
-    out_f.write("---\n")
     out_f.write("### New application\n")
     out_f.write("\n")
-    out_f.write("---\n")
     out_f.write("\n")
+    out_f.write("Question | Answer\n")
+    out_f.write("--- | ---\n")
     for colname in colname_text:
         out_f.write(format_attribute(row[colname], colname_text[colname]))
     out_f.write("\n")
-    out_f.write("---\n")
     out_f.write("\n")
-    #if type == 'nm':
-    #    out_f.write("### Actions for Network Managers\n\n")
-    #    out_f.write("Please vote:\n")
-    #    out_f.write("- **Light Bulb (:bulb:)** for direct submission to the mentor channel (good application)\n")
-    #    out_f.write("- **Thumbs up (:+1:)** for submission to the mentor channel, asking if any mentor has a possible project for them (a bit vague application)\n")
-    #    out_f.write("- **Gear (:gear:)** for asking them to rework their application (vague application)\n")
-    #elif type == "mentors":
-    #    out_f.write("### Actions for Mentors\n\n")
-    #    out_f.write("Interested in mentoring this person? Let us know using the reactions\n")
-    #    out_f.write("- **Thumbs up (:+1:)** to mentor the project in its actual format\n")
-    #    out_f.write("- **OK hand (:ok_hand:)** if this application is a big vague but you may have an actual project that fits this person\n")
-    #out_f.write("\n")
-    #out_f.write("---\n")
-    #out_f.write("\n\n\n")
+    out_f.write("#### Vote from Network Managers\n")
+    out_f.write("- **Yes** for submission to the mentors\n")
+    out_f.write("- **No** for asking them to rework their application (vague application)\n")
+    out_f.write("\n")
+    out_f.write("Network Manager | Vote | Comment \n")
+    out_f.write("--- | --- | ---\n")
+    out_f.write("Delphine |  | \n")
+    out_f.write("Assunta |  | \n")
+    out_f.write("Bérénice |  | \n")
+    out_f.write("\n")
+    out_f.write("**Decision**: \n")
+    out_f.write("\n")
 
 
 def format_applications(df, out_dp):
@@ -73,8 +70,8 @@ def format_applications(df, out_dp):
     :param df: data frame with applications
     :param out_dp: Path to folder with nice looking applications
     '''
-    pending_fp = out_dp / Path("pending_mentee_applications")
-    waiting_fp = out_dp / Path("waiting_gmentor_mentee_applications")
+    pending_fp = out_dp / Path("pending_mentee_applications.md")
+    waiting_fp = out_dp / Path("waiting_gmentor_mentee_applications.md")
     df = df.fillna("")
     with pending_fp.open('w') as pending_f:
         with waiting_fp.open('w') as waiting_f:
