@@ -139,3 +139,10 @@ $ export NODE_OPTIONS=--openssl-legacy-provider
 3. To add an image:
     1. Add the images to `src/images` folder
     2. Import it in the Vue file using `<g-image src="~/images/<filename>" alt="Alternative text"/> ([Gridsome documentation](https://gridsome.org/docs/images/))
+
+
+## Format mentee applications
+
+1. Install Python and pandas
+2. Put the link to application sheet in `bin/get_applications.sh`
+2. Run `bash bin/get_applications.sh`
